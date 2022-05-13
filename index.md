@@ -12,5 +12,3 @@ This project has the following purposes:
 ### Information
 
 - [About Actions]({% link about.md %}) page - this describes how you can use a custom CI flow with GitHub Actions to serve on GitHub Pages.
-- [Tutorial]({% link tutorial.md %}) page - instructions and resources to add Actions to your Jekyll site.
-
