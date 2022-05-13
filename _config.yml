@@ -6,7 +6,7 @@ description: How to setup GH Pages + GH Actions for use with Jekyll 4
 ### Built settings ###
 
 url: "https://gixlabs.github.io"
-baseurl: "/template"
+baseurl: "/"
 
 github_username: GIXLabs
 
