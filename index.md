@@ -1,5 +1,7 @@
 ---
+title: Home
 layout: default
+nav_order: 1
 ---
 
 > {{ site.description }}
@@ -7,8 +9,8 @@ layout: default
 
 ## Purpose
 
-This project has the following purposes:
+This site will serve for all things Labs at GIX
 
-### Information
+### Tools
 
-- [About Actions]({% link about.md %}) page - this describes how you can use a custom CI flow with GitHub Actions to serve on GitHub Pages.
+- [Tools]({% link tools/index.md %}) - view tool sops

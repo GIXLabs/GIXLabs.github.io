@@ -1,6 +1,6 @@
 title: GIX Labs
 description: For things related to GIX Lab space
-logo: /assets/images/logo.png
+
 
 theme: just-the-docs
 # remote_theme: just-the-docs/just-the-docs
@@ -12,30 +12,7 @@ github_username: GIXLabs
 
 aux_links:
   "See on Github":
-    - "//github.com/GIXLabs"
-
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-
-
+    - "https://github.com/GIXLabs"
 
 footer_content: "GIX Labs"
 
@@ -50,6 +27,8 @@ gh_edit_repository: "https://github.com/GIXLabs/GIXLabs.github.io" # the github 
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+color_theme: dark
 
 toggle_color_scheme: dark          # default: nil (no toggle button)
 # To display the toggle button only on one page:
