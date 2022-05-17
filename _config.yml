@@ -1,18 +1,20 @@
 title: GIX Labs
 description: For things related to GIX Lab space
+logo: /assets/images/logo.png
 
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
+
 
 url: "https://gixlabs.github.io"
 baseurl: ""
 
 github_username: GIXLabs
 
-logo: /assets/images/logo.png
+
 aux_links:
   "See on Github":
-    - "//github.com/GIXLabs"
+    - "/github.com/GIXLabs"
 
 footer_content: "GIX Labs"
 

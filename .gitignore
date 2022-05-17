@@ -8,3 +8,6 @@ vendor/
 .jekyll-cache/
 .jekyll-metadata
 build/
+
+## Other
+.DS_Store
