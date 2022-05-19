@@ -11,11 +11,19 @@ It's instead recommended to pull the repository down to your computer and run th
 
 ### Prerequisites 
 
-To run the site locally, you'll need to install the prerequisites for jekyll. 
+To run the site locally, you'll need to install the prerequisites for Jekyll. 
 They have a great guide on their [website](). 
 Once you have Ruby, RubyGems, GCC and make installed, run `gem install jekyll bundler`.
 
 ### Running locally
 
-Once the prerequisites are installed, run `jekyll serve --config _config_local.yml` in the root directory of the project. 
-You should see your local site at `http://localhost:4000/`. 
+Once the prerequisites are installed:
+
+- Clone the repo 
+  - `git@github.com:GIXLabs/GIXLabs.github.io.git`
+  - `cd GIXLabs.github.io`
+- Install dependencies `bundle install`
+- Serve the site with Jekyll `jekyll serve --config _config_local.yml` 
+- Open a browser to `http://localhost:4000/`
+
+You can then make changes to the files in your favorite IDE. It should auto update on each save and you can refresh the page to see your changes. 
