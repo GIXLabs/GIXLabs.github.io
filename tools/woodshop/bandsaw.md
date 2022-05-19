@@ -16,7 +16,7 @@ stretched between two or more wheels to cut material.
 
 ## Operation
 
-Make sure you're fully trained with the band saw and are wearing proper protective equiment at all times before using the bandsaw. 
+Make sure you're fully trained with the band saw and are wearing proper protective equipment at all times before using the band saw. 
 
 ### Required Training
 
