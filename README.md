@@ -7,7 +7,7 @@ The site it a [jekyll](https://jekyllrb.com) site using [just-the-docs]() layout
 
 To contribute to the site, first reach out to Kevin or Andreas to get added to the GIXLabs github organization.
 You can edit files directly on github. However, it will take about 2 minutes for the changes to show up, so it can be quite time consuming to iterate on changes. 
-It's instead recommended to pull the repository down to your computer and run the site on your local computer, then commit and push your changes when you have it the way your want.
+It's instead recommended to pull the repository down to your computer and run the site on your local computer, then commit and push your changes when you have it the way you want.
 
 ### Prerequisites 
 
