@@ -4,7 +4,10 @@ description: For things related to GIX Lab space
 theme: just-the-docs
 # remote_theme: just-the-docs/just-the-docs
 
+<<<<<<< HEAD
 source: ""
+=======
+>>>>>>> parent of 08fa5d7 (make source folder)
 url: ""
 baseurl: ""
 
@@ -28,6 +31,11 @@ gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
+<<<<<<< HEAD
+=======
+color_theme: dark
+
+>>>>>>> parent of 08fa5d7 (make source folder)
 toggle_color_scheme: dark          # default: nil (no toggle button)
 # To display the toggle button only on one page:
 toggle_page_url: "/"               # default: nil (display on all pages)

@@ -1,10 +1,20 @@
 title: GIX Labs
 description: For things related to GIX Lab space
+<<<<<<< HEAD
+=======
+logo: /assets/images/logo.png
+>>>>>>> parent of 08fa5d7 (make source folder)
 
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
+<<<<<<< HEAD
+<<<<<<<< HEAD
 source: ""
+========
+>>>>>>>> parent of 08fa5d7 (make source folder)
+=======
+>>>>>>> parent of 08fa5d7 (make source folder)
 url: "https://gixlabs.github.io"
 baseurl: ""
 
