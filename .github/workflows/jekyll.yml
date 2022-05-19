@@ -28,6 +28,6 @@ jobs:
         uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          jjekyll_src: 'src'
+          jekyll_src: 'src'
           target_branch: 'gh-pages'
           gem_src: './Gemfile'
