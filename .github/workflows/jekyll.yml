@@ -30,4 +30,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: 'src'
           target_branch: 'gh-pages'
-          gem_src: './Gemfile'
+          gem_src: '/'
