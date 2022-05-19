@@ -30,4 +30,7 @@ You can then make changes to the files in your favorite IDE.
 It should regenerate the site on each save. 
 Simply you can refresh the page to see your changes. 
 
-### Fi
+### Project Structure
+
+The root of this directory includes `index.md` which is the main page of the site. 
+`about.md` contains information of people working in the labs
