@@ -5,8 +5,9 @@ logo: /assets/images/logo.png
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
+source: "src"
 url: "https://gixlabs.github.io"
-baseurl: ""
+baseurl: "/site"
 
 github_username: GIXLabs
 

@@ -11,6 +11,3 @@ nav_order: 1
 
 This site will serve for all things Labs at GIX
 
-### Tools
-
-- [Tools]({% link tools/index.md %}) - view tool sops

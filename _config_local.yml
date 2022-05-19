@@ -6,6 +6,7 @@ theme: just-the-docs
 
 url: ""
 baseurl: ""
+source: "src"
 
 github_username: GIXLabs
 
