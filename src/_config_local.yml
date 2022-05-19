@@ -1,11 +1,11 @@
 title: GIX Labs
 description: For things related to GIX Lab space
 
-# theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 
-source: "src"
-url: "https://gixlabs.github.io"
+source: ""
+url: ""
 baseurl: ""
 
 github_username: GIXLabs
