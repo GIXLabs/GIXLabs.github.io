@@ -33,4 +33,16 @@ Simply you can refresh the page to see your changes.
 ### Project Structure
 
 The root of this directory includes `index.md` which is the main page of the site. 
-`about.md` contains information of people working in the labs
+
+`about.md` contains information of people working in the labs.
+
+The tools directory contains all the sites for each tool separated into categories. Each category has an `index.md` landing page and then one page for each tool of that type. 
+
+All images and SOPs are stored in the assets folder, which should have a logical structure for file locations based on site navigation. Note: moving images will break links to them, so be aware of where files are linked before moving anything.
+
+### Page Structure
+
+Each page generated with Jekyll starts with front matter. 
+This is the metadata written in YAML at the top of the page that tells the site generator where the title, which layout to use, and where that page falls in the navigation tree. 
+
+See [just-the-docs](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/) documentation on navigation structure ro understand what goes in each page's front matter. 
