@@ -28,4 +28,4 @@ Safety glasses and hearing protection, plus minimum shop PPE.
 
 ### SOP
 
-You can download the latest SOP [here](/docs/BandSaw/SOP_BandSaw.docx)
+You can download the latest SOP [here](/assets/sops/BandSaw/SOP_BandSaw.docx)
