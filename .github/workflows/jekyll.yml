@@ -7,6 +7,7 @@ on:
     paths-ignore:
       - "docs/**"
 
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -27,3 +28,4 @@ jobs:
         uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          jekyll_src: 'src'
