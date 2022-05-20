@@ -8,7 +8,7 @@ layout: page
 ## Staff
 
 - Kevin Arne
-- Bob Ness
+- Bob Nesse
 - Andreas Wenzel
 
 ## Crew
