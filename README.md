@@ -20,7 +20,7 @@ Once you have Ruby, RubyGems, GCC and Make installed, run `gem install jekyll bu
 Once the prerequisites are installed:
 
 - Clone the repo 
-  - `git@github.com:GIXLabs/GIXLabs.github.io.git`
+  - `git clone git@github.com:GIXLabs/GIXLabs.github.io.git`
   - `cd GIXLabs.github.io`
 - Install dependencies `bundle install`
 - Serve the site with Jekyll `jekyll serve --config _config_local.yml` 
