@@ -7,24 +7,36 @@ grand_parent: Tools
 
 # Band Saw
 
-![Band Saw](/assets/images/tools/band_saw.jpeg)
-
 ## Description
 
-A bandsaw (also written band saw) is a power saw with a long, sharp blade consisting of a continuous band of toothed metal
-stretched between two or more wheels to cut material.
+![Band Saw](/assets/images/tools/band_saw.jpeg)
+
+A band saw is a power saw with a long, sharp blade consisting of a continuous band of toothed metal stretched between two or more wheels to cut material.
+## Why
+
+You may wish to use a band saw when: 
+- You want to make quick,  cuts
+- You need a cut that has rounded corners
+
+You don't want to use a band saw when:
+- You need precisely straight cut
+
+## Safety
+
+### Equipment
+- Safety glasses
+- Hearing protection
+- Closed toes shows
+
+### Trainings
+
+Make sure you have completed the proper online safety training and have attended a saws training from the Makerspace staff or crew.
+
 
 ## Operation
 
-Make sure you're fully trained with the band saw and are wearing proper protective equipment at all times before using the band saw. 
+Make sure you're fully trained and are wearing proper protective equipment at all times before using the tool.  
 
-### Required Training
-
-
-
-### Safety Equipment
-
-Safety glasses and hearing protection, plus minimum shop PPE.
 
 ### SOP
 
