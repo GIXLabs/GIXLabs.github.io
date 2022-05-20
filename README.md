@@ -9,13 +9,11 @@ To contribute to the site, first reach out to Kevin or Andreas to get added to t
 You can edit files directly on github. However, it will take about 2 minutes for the changes to show up, so it can be quite time consuming to iterate on changes. 
 It's instead recommended to pull the repository down to your computer and run the site on your local computer, then commit and push your changes when you have it the way you want.
 
-### Prerequisites 
+### Running locally
 
 To run the site locally, you'll need to install the prerequisites for Jekyll. 
-They have a great guide on their [website](). 
+They have a great guide on their [website](https://jekyllrb.com/docs/installation/). 
 Once you have Ruby, RubyGems, GCC and Make installed, run `gem install jekyll bundler`.
-
-### Running locally
 
 Once the prerequisites are installed:
 
