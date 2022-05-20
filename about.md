@@ -11,4 +11,11 @@ layout: page
 - Bob Nesse
 - Andreas Wenzel
 
-## Crew
+## Current Crew
+
+- Garrett P Millaway
+- Jack Bowen
+- Jessie Zhao
+- Tiffany Wang
+- Chuan-Li Chang
+- Teja Balu
