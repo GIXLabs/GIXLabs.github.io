@@ -13,7 +13,7 @@ layout: page
 
 ## Current Crew
 
-- Garrett P Millaway
+- Garrett Millaway
 - Jack Bowen
 - Jessie Zhao
 - Tiffany Wang
