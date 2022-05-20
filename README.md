@@ -1,7 +1,7 @@
 # GIXLabs.github.io
 
 This repository contains the source material for the GIX Labs site hosted at [gixlabs.github.io](https://gixlabs.github.io).
-The site it a [jekyll](https://jekyllrb.com) site using [just-the-docs]() layout and built with the [jekyll action]() on github. 
+The site it a [jekyll](https://jekyllrb.com) site using [just-the-docs]() layout and hosted with [GitHub Pages]() 
 
 ## Adding to the site
 
