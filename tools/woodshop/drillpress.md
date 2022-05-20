@@ -35,7 +35,7 @@ In addition to standard woodshop safety equipment, you will want to have:
 
 ### Trainings
 
-Make sure you have completed the proper online safety training and have attended a drillpress training from the Makerspace staff or crew.
+Make sure you have completed the proper online safety training and have attended a drill press training from the Makerspace staff or crew.
 
 
 ## Operation
@@ -44,7 +44,7 @@ Make sure you're fully trained and are wearing proper protective equipment at al
 
 ## Additional Resources
 
-<!-- [![Band Saw Basics](https://img.youtube.com/vi/B7T71I-YQZk/0.jpg)](https://www.youtube.com/watch?v=B7T71I-YQZk&ab_channel=WOODmagazine "Band Saw Basics") -->
+[![Drill Press Basics](https://img.youtube.com/vi/Gq8jL_ZDjNM/0.jpg)](https://www.youtube.com/watch?v=Gq8jL_ZDjNM "Drill Press Basics")
 
 
 ## SOP
