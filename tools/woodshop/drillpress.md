@@ -5,24 +5,27 @@ parent: Wood Shop
 grand_parent: Tools
 ---
 
-# Band Saw
+# Drill Press
 
 ## Description
 
 <!-- ![Band Saw](/assets/images/tools/band_saw.jpeg) -->
 
-A band saw is a power saw with a long, sharp blade consisting of a continuous band of toothed metal stretched between two or more wheels to cut material.
+The drill press is a versatile machine that uses a multiple-cutting-edged drill bit secured in a rotating chuck to bore and drill holes, normally into wood stock.
 
 ## Why
 
-You may wish to use a band saw when: 
-- You want to make quick,  cuts
-- You need a cut that has rounded corners
+You may wish to use a drill press when: 
+- You want to drill holes consistently
+- Enlarge holes with a boring tool or finishing holes with a reamer
+- Produce threads in a hole with the aid of a special tapping attachment 
 
-You don't want to use a band saw when:
-- You need precisely straight cut
+<!-- You don't want to use a drill press when:
+- You need precisely straight cut -->
 
 ## Safety
+
+Let the spindle stop of its own accord after turning the power off. **Never** try to stop the spindle with your hand.
 
 ### Equipment
 In addition to standard woodshop safety equipment, you will want to have: 
@@ -32,7 +35,7 @@ In addition to standard woodshop safety equipment, you will want to have:
 
 ### Trainings
 
-Make sure you have completed the proper online safety training and have attended a saws training from the Makerspace staff or crew.
+Make sure you have completed the proper online safety training and have attended a drillpress training from the Makerspace staff or crew.
 
 
 ## Operation
