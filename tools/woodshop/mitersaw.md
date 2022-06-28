@@ -11,7 +11,7 @@ grand_parent: Tools
 
 <!-- ![Band Saw](/assets/images/tools/band_saw.jpeg) -->
 
-A miter saw or mitre saw is a saw used to make accurate crosscuts and miters in a workpiece by positioning a mounted blade onto a board. Miter saws are primarily used for cutting wood trim and molding, but also can be used to cut metal, masonry, and plastics, provided the appropriate type of blade is used for the material being cut
+A miter saw or mitre saw is a saw used to make accurate crosscuts and miters in a workpiece by positioning a mounted blade onto a board. Miter saws are primarily used for cutting wood trim and molding, but also can be used to cut metal, masonry, and plastics, provided the appropriate type of blade is used for the material being cut.
 
 ## Why
 
