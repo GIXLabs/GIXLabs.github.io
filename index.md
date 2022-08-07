@@ -3,12 +3,11 @@ title: Home
 layout: default
 nav_order: 1
 ---
-> {{ site.description }}
 
+> {{ site.description }}
 
 ## Purpose
 
 This site will serve for all things Labs at GIX
 
 ### Tools
-
