@@ -10,7 +10,6 @@ nav_order: 4
 
 - Kevin Arne
 - Bob Nesse
-- Andreas Wenzel
 
 ## Current Crew
 

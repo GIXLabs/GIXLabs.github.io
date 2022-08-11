@@ -1,12 +1,12 @@
 ---
-title: TPU Material Ultimakers
+title: Print Using Flexible Material
 layout: page
 parent: How To
 ---
 
-# TPU Printers
+# Flexible Material
 
-## How to use the "TPU" Printers
+## How to Print using Flexible Material
 
 1. Ensure to upload the .stl file to Cura
 2. Ensure the **material** is to set to **TPU.** You will know this when your model turns to the color red.
