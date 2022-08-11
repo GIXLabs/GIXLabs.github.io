@@ -13,6 +13,17 @@ We have a few rules in the Prototyping Labs to help everyone use this shared spa
 
 # Policies
 Our policies are the implementation details for the above rules. If you find that one of these policies violates a rule, the rule takes precedence.
+1. Do not operate drones inside the building or on any of the balconies.
+2. Spray adhesives are not allowed in the Prototyping Labs.
+3. Prototyping Labs tools must stay in the Prototyping Labs unless you have approval from staff.
+4. The materials in the Prototyping Labs are intended for classwork, one-off projects, or prototypes, not for production. In other words, don't run an Etsy shop out of the Prototyping Labs.
+5. Only use tools you have been trained on. If you don't know how to use a tool, as a member of staff to train you or help you with the tool.
+6. Only use the Prototyping Labs with a clear head. Distraction, intoxication, and lack of sleep all lead to injuries and are not allowed.
+7. Mess-producing activities that affect other users (sanding and anything with fumes) must be done in their appropriate areas (woodshop and fume hood/paint booth respectively).
+8. Dress appropriately when operating tools in the Prototyping Labs. This means no loose clothing, dangling jewelry, lanyard, loose hair, or open-toed shoes.
+9. Wear appropriate protective equipment for the task at hand. This means eye and ear protection when working in the woodshop and gloves when working with chemicals (including SLA resin). Eye protection is also recommended when soldering.
+10. Report damaged or malfunctioning equipment to staff immediately. Do not attempt to repair yourself as you can incur liability that way.
+11. Use only approved materials in the Prototyping Labs. The materials provide in the Labs are pre-approved, but outside materials must be approved by staff, particularly if you are going to use them on the lasers.
 
 
 # Standard Operating Procedures
