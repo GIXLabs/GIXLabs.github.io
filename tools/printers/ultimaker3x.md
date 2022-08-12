@@ -73,11 +73,3 @@ This section goes through importing materials to Cura, tuning layer and support 
 ### Printing the Sliced model with Ultimaker
 
 ...
-
----
-
-To do:
-
--   [x] Cura setup
--   [x] Slicing and postprocessing of STL files using Cura
--   [ ] Guide on printing from the USB with Ultimaker
