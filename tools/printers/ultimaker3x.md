@@ -27,7 +27,7 @@ The postprocessing mainly consists of slicing the model, during when one would h
 
 After installation, open Cura and follow the setup prompts. While selecting the devices, add a non-networked printer, and choose Ultimaker 3 Extended from the drop down.
 
-Follow the rest of the self-explanatory prompts to finish the setup.
+Follow the rest of self-explanatory prompts to finish the setup.
 
 ![](../../assets/images/Ultimaker3_Guide/CuraSetup.png)
 
@@ -41,9 +41,9 @@ Lets go through the interface of Cura in brief.
 2. The second region is where one can select the 3D printer type. Once set, this setting is rarely touched.
 3. The third region deals with material selection, and thickness of the material. When a material is changed in the 3D printer, one should do the relevant changes in this menu.
 4. The fourth region deals with setting layer heights, support layer settings, and other fine tuning one does when slicing the model. This menu is the one that is most often used when using Cura.
-5. This tab (`PREPARE`) is where one spends the most time tweaking the slicing settings.
-6. This tab (`PREVIEW`) can be used to preview the sliced model after the settings are finalized in teh PREPARE tab.
-7. The MONITOR tab is used for networked devices, where one is able to see the live view of the 3D printer in action while it is being printed.
+5. `PREPARE` is where one spends the most time tweaking the slicing settings.
+6. `PREVIEW` can be used to preview the sliced model after the settings are finalized in teh PREPARE tab.
+7. The `MONITOR` tab is used for networked devices, where one is able to see the live view of the 3D printer in action while it is being printed.
 8. This region is where the models are viewed and arranged on the print bed.
 9. This region can be used to change views of the 3D model in the 8th region.
 
