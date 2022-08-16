@@ -72,4 +72,20 @@ This section goes through importing materials to Cura, tuning layer and support 
 
 ### Printing the Sliced model with Ultimaker
 
-...
+After copying the required .gcode files to the USB stick, follow the following steps to print the model in the Ultimaker.
+
+1. Make sure there is enough material in the Ultimaker for the print before starting the print. If the Ultimaker runs out of material, there is no way to add additional material for continuing the print, and one would have to restart the whole print with new material.
+    1. Ultimaker doesn't have a mechanism that notifies one if the existing spool is enough for the model it is about to print, so one has to use their judgement to decide if the existing material is enough for the print.
+       ![](../../assets/images/Ultimaker3_Guide/spoolcheck.jpg)
+2. Insert the USB into Ultimaker. The dial can be rotated to scroll through the options on the screen, and can be pressed to select. Select print, and the right file from the following options.  
+   ![](../../assets/images/Ultimaker3_Guide/selectprint.jpg)
+   ![](../../assets/images/Ultimaker3_Guide/selectmodeltoprint.jpg)
+3. Wait till the Ultimaker heats up the build plate and the print core.
+   ![](../../assets/images/Ultimaker3_Guide/heatbuildplate.jpg)
+   ![](../../assets/images/Ultimaker3_Guide/heatprintcore.jpg)
+4. As the first step in the print, the Ultimaker squirts a small amount on the corner of the build plate. The shape has to be roughly pyramidal.
+   ![](../../assets/images/Ultimaker3_Guide/initsquirt.jpg)
+5. When the print starts, make sure the rims for the print are evenly shaped and sticks to the plate. Also, make sure the flow from the nozzle is consistent. These steps ensure that the rest of the print continues to go well.
+   ![](../../assets/images/Ultimaker3_Guide/initprint.jpg)
+6. There are always chances that the print might fail at any point, and following the above initial steps reduces the probability of the print failing, as one can identify faults at the beginning itself rather than later.
+7. Remove the print from the glass pane using a spatula. The supports can be removed using a plier.
