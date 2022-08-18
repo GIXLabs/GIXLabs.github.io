@@ -22,4 +22,4 @@ grand_parent: Tools
 | Converd 0.25 in.       | 5/32" Corrugated Cardboard with 2 passes |
 | MDF 0.125 in.          | Medium DraftBoard                        |
 | Wood (Birch) 0.125 in. | Medium Cherry Hardwood                   |
-| Wood (Birch) 0.25 in.  | Thick Cherry Hardwood                    |
+| Wood (Birch) 0.25 in.  | Thick Cherry Hardwood with 2 passes      |
