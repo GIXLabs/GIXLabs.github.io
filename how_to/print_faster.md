@@ -26,13 +26,13 @@ parent: How To
 
 1. Ensure to upload the .stl file to cura
 2. change the **printcore** to **AA0.8**
-   ![AA08](/assets/images/cura/printcore08.jpg)
+   ![AA08](/assets/images/cura/setprintcore08.jpg)
 
 ### Print settings:
 
 3. set the layer height to 0.5mm and infill to 20%
-   ![PrintSettings](/assets/images/cura/printsettings.jpg)
+   ![PrintSettings](/assets/images/cura/print08setting.jpg)
 
 ### Slicing result
 
-![slicingresult](/assets/images/cura/finalresult.jpg)
+![slicingresult](/assets/images/cura/finalresult08.jpg)
