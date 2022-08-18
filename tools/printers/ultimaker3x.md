@@ -87,5 +87,5 @@ After copying the required .gcode files to the USB stick, follow the following s
    ![](../../assets/images/Ultimaker3_Guide/initsquirt.jpg)
 5. When the print starts, make sure the rims for the print are evenly shaped and sticks to the plate. Also, make sure the flow from the nozzle is consistent. These steps ensure that the rest of the print continues to go well.
    ![](../../assets/images/Ultimaker3_Guide/initprint.jpg)
-6. There are always chances that the print might fail at any point, and following the above initial steps reduces the probability of the print failing, as one can identify faults at the beginning itself rather than later.
+6. There are always chances that the print might fail at any point, and following the above initial steps reduces the probability of the print failing as one can identify faults at the beginning itself rather than later.
 7. Remove the print from the glass pane using a spatula. The supports can be removed using a plier, and the rims can be removed using a deburring tool.
