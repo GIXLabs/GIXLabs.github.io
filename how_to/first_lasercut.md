@@ -6,21 +6,29 @@ parent: How To
 
 # Glowforge
 
-Before getting started with the instructions below, ensure that you have the design that you want to laser cut. Keep in mind that different colors will operate differently when uploaded to the glowforge. For example:
+## TWO rules to keep in mind when using the Glowforge
 
-![DifferentColor](/assets/images/first_laser_cut/different_color.png)
+1. Don't leave cut unattended.
+2. Talk to staff before using external materials.
 
-![DifferentUpload](/assets/images/first_laser_cut/uploaded_file.jpg)
+---
 
-### Design file formats that work:
+Before getting started with the instructions below, download the cut file [here](/assets/images/first_laser_cut/gix_first_cut.svg). Keep in mind that different colors will operate differently when uploaded to the glowforge. For example:
 
-- JPG, PNG, SVG, and PDF
+- What the file looks like
+  ![DifferentColor](/assets/images/first_laser_cut/different_color.png)
+- When uploaded to Glowforge
+  ![DifferentUpload](/assets/images/first_laser_cut/uploaded_file.jpg)
+
+### Suggested design file formats:
+
+- SVG and PDF
 
 ### Uploading a file:
 
-- Log into the glowforge app: [https://app.glowforge.com/](https://app.glowforge.com/)
+- Log into the Glowforge app: [https://app.glowforge.com/](https://app.glowforge.com/)
 
-- To print a file, just drag-and-drop it directly on the glowforge app, or you can click on the upload option to upload your print file.
+- To print a file, just drag-and-drop it directly on the Glowforge app, or you can click on the upload option to upload your print file.
 
 ### Selecting the available Glowforge:
 
@@ -29,7 +37,7 @@ Before getting started with the instructions below, ensure that you have the des
 
 ### Selecting material from Glowforge presets:
 
-- Depending on what material you have placed in the glowforge select the proper [this page](../tools/lasers/glowforge.html).
+- Depending on what material you have placed in the Glowforge select the proper [this page](../tools/lasers/glowforge.html).
   ![SelectMaterial](/assets/images/first_laser_cut/select_material.png)
 
 ### Changing cut settings to either engraves, score, or cuts:
@@ -40,7 +48,7 @@ Before getting started with the instructions below, ensure that you have the des
 
 ### Changing order of items:
 
-- You are able to change the order of the engrave, score, or cut by hovering over the item on the lefthand side and moving it up or down.
+- You are able to change the order of the engrave or cut by hovering over the item on the lefthand side and moving the cut above engrave item.
   ![ChangeOrder](/assets/images/first_laser_cut/change_order.gif)
 
 ### Positioning artwork on material:
@@ -59,8 +67,3 @@ Before getting started with the instructions below, ensure that you have the des
   ![PrintGlowforge](/assets/images/first_laser_cut/print_glowforge.gif)
 
 ### 🎉 **Congratulations! You have done your first cut on the Glowforge!** 🎉
-
-## IMPORTANT THINGS TO NOTE
-
-1. Don't leave cut unattended.
-2. Talk to staff before using external materials.
