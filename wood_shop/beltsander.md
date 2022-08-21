@@ -2,7 +2,6 @@
 title: Belt Sander
 layout: page
 parent: Wood Shop
-grand_parent: Tools
 ---
 
 # Belt Sander

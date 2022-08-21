@@ -2,7 +2,6 @@
 title: Band Saw
 layout: page
 parent: Wood Shop
-grand_parent: Tools
 ---
 
 # Band Saw

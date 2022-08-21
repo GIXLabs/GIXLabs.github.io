@@ -2,7 +2,6 @@
 title: Drill Press
 layout: page
 parent: Wood Shop
-grand_parent: Tools
 ---
 
 # Drill Press

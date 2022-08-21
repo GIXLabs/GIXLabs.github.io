@@ -1,8 +1,7 @@
 ---
 title: Ultimaker 3 Extended
 layout: page
-parent: Printers
-grand_parent: Tools
+parent: 3d Printers
 ---
 
 # Ultimaker 3 Extended
