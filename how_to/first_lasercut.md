@@ -13,7 +13,7 @@ parent: How To
 
 ---
 
-Before getting started with the instructions below, download the cut file [here](/assets/images/first_laser_cut/gix_first_cut.svg). Keep in mind that different colors will operate differently when uploaded to the glowforge. For example:
+Before getting started with the instructions below, download the cut file [here](/assets/images/first_laser_cut/gix_first_cut.svg "download"). Keep in mind that different colors will operate differently when uploaded to the glowforge. For example:
 
 - What the file looks like
   ![DifferentColor](/assets/images/first_laser_cut/different_color.png)
