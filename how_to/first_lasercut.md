@@ -4,7 +4,10 @@ layout: page
 parent: How To
 ---
 
-# Two Rules of the Glowforge (or any laser)
+# Your First Laser Cut on the Glowforge
+
+---
+## Two Rules of the Glowforge (or any laser)
 
 1. Don't leave cuts unattended.
 1. Talk to staff before using external materials.
@@ -16,7 +19,7 @@ You should have gotten six emails from Glowforge, one of which will be different
 
 ## Download a Sample File
 
-Before getting started with the instructions below, download the cut file [here](/assets/images/first_laser_cut/gix_first_cut.svg). You may need to right click the previous link and select "Save as." Keep in mind that different colors will operate differently when uploaded to the Glowforge. For example:
+Before getting started with the instructions below, download the cut file [here](/assets/images/first_laser_cut/gix_first_cut.svg). You may need to right click the previous link and select "Save link as." Keep in mind that different colors will operate differently when uploaded to the Glowforge. For example:
 
 - What the file looks like
   ![DifferentColor](/assets/images/first_laser_cut/different_color.png)
@@ -66,7 +69,7 @@ Before getting started with the instructions below, download the cut file [here]
 
 **NOTE:** This will help you maximize the space left for other cuts. DON'T PUT YOUR CUT IN THE CENTER OF A FRESH SHEET OF MATERIAL. Place it near the edges so others can use the remainder of that sheet.
 
-## Cut your First Design
+## Cutting Your First Design
 
 - Go to the upper right corner and click on Print.
 - The first time you print, it will give you some safety warnings, which should match our rules, and a warning about no Proofgrade materials, which you can ignore.
