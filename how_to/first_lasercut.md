@@ -1,69 +1,76 @@
 ---
-title: Do Your First Laser Cut
+title: Do Your First Laser Cut (Glowforge)
 layout: page
 parent: How To
 ---
 
-# Glowforge
+# Two Rules of the Glowforge (or any laser)
 
-## TWO rules to keep in mind when using the Glowforge
-
-1. Don't leave cut unattended.
-2. Talk to staff before using external materials.
+1. Don't leave cuts unattended.
+1. Talk to staff before using external materials.
 
 ---
 
-Before getting started with the instructions below, download the cut file [here](/assets/images/first_laser_cut/gix_first_cut.svg "download"). Keep in mind that different colors will operate differently when uploaded to the glowforge. For example:
+## Signing up for Glowforge Account
+You should have gotten six emails from Glowforge, one of which will be different than the others. In that different email, click on the "Getting Started" link to go through the sign up process. Glowforge accounts are free and are required to print on the Glowforge.
+
+## Download a Sample File
+
+Before getting started with the instructions below, download the cut file [here](/assets/images/first_laser_cut/gix_first_cut.svg). You may need to right click the previous link and select "Save as." Keep in mind that different colors will operate differently when uploaded to the Glowforge. For example:
 
 - What the file looks like
   ![DifferentColor](/assets/images/first_laser_cut/different_color.png)
 - When uploaded to Glowforge
   ![DifferentUpload](/assets/images/first_laser_cut/uploaded_file.jpg)
 
-### Suggested design file formats:
+## Suggested File Formats
 
-- SVG and PDF
+- SVG
+- PDF
 
-### Uploading a file:
+## Uploading a File
 
 - Log into the Glowforge app: [https://app.glowforge.com/](https://app.glowforge.com/)
 
-- To print a file, just drag-and-drop it directly on the Glowforge app, or you can click on the upload option to upload your print file.
+- To print a file, just drag-and-drop it directly on the Glowforge app, or you can click on the Upload button to upload your print file.
 
-### Selecting the available Glowforge:
+## Selecting an Available Glowforge
 
 - Once you have upload your file select the available Glowforge to do your cut.
   ![SelectGlowforge](/assets/images/first_laser_cut/select_glowforge.gif)
 
-### Selecting material from Glowforge presets:
+## Selecting Your Material from Glowforge Presets
 
-- Depending on what material you have placed in the Glowforge select the proper [this page](../tools/lasers/glowforge.html).
+- Grab a piece of 0.125 inch cardboard from the material supplies and place it in the bed of the machine. Try to use a piece that already has a few cuts in it.
+- Select 1/8" Corrugated Cardboard in the top lefthand corner. You may have to use the search bar to find it.
   ![SelectMaterial](/assets/images/first_laser_cut/select_material.png)
+- You can find the proper settings on [this page](../tools/lasers/glowforge.html) for all of the other materials in the Prototyping Labs
 
-### Changing cut settings to either engraves, score, or cuts:
+## Changing Cut Settings
 
-- As you can see on the lefthand side you can click on the item that you want to change the settings for from engrave, score, or cut.
+- On the lefthand side you can click on the item you want to change the settings for from engrave, score, or cut.
   ![ChangeSetting](/assets/images/first_laser_cut/change_settings.png)
   ![SelectSetting](/assets/images/first_laser_cut/select_settings.jpg)
 
-### Changing order of items:
+## Changing Cut Order
 
-- You are able to change the order of the engrave or cut by hovering over the item on the lefthand side and moving the cut above engrave item.
+- You can change the order of the engrave or cut by hovering over the item on the lefthand side and drag the cut above engrave item. Always place the outer border cut last.
   ![ChangeOrder](/assets/images/first_laser_cut/change_order.gif)
 
-### Positioning artwork on material:
+## Positioning Your Cut
 
 - To change the positioning of the artwork select the artwork and drag it to the area where you want to cut it.
 - You are able to rotate your artwork as well.
 
 ![MoveArtwork](/assets/images/first_laser_cut/move_artwork.gif)
 
-**NOTE:** This will help you maximize the space of the material you are using.
+**NOTE:** This will help you maximize the space left for other cuts. DON'T PUT YOUR CUT IN THE CENTER OF A FRESH SHEET OF MATERIAL. Place it near the edges so others can use the remainder of that sheet.
 
-### You are now ready to cut your first design
+## Cut your First Design
 
-- Go to the upper right corner and click on print.
+- Go to the upper right corner and click on Print.
+- The first time you print, it will give you some safety warnings, which should match our rules, and a warning about no Proofgrade materials, which you can ignore.
 - Once you have done that and you see the provided estimated time of your cut, you will see the **button on the Glowforge machine** blink. Press on the button and watch the laser do your cut.
   ![PrintGlowforge](/assets/images/first_laser_cut/print_glowforge.gif)
 
-### 🎉 **Congratulations! You have done your first cut on the Glowforge!** 🎉
+## 🎉 **Congratulations! You have done your first cut on the Glowforge!** 🎉
