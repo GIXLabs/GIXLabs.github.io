@@ -15,7 +15,7 @@ parent: How To
 ---
 
 ## Signing up for Glowforge Account
-You should have gotten six emails from Glowforge, one of which will be different than the others. In that different email, click on the "Getting Started" link to go through the sign up process. Glowforge accounts are free and are required to print on the Glowforge.
+Prior to this guide, you should have been invited to the Glowforge systems by the Prototyping Labs staff, if not, please ask a member of staff to invite you. After invitation, you will receive six emails from Glowforge, one of which will be different than the others. In that different email, click on the "Getting Started" link to go through the sign up process. Glowforge accounts are free and are required to print on the Glowforge.
 
 ## Download a Sample File
 
