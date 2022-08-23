@@ -47,7 +47,7 @@ Before getting started with the instructions below, download the cut file [here]
 - Grab a piece of 0.125 inch cardboard from the material supplies and place it in the bed of the machine. Try to use a piece that already has a few cuts in it.
 - Select 1/8" Corrugated Cardboard in the top lefthand corner. You may have to use the search bar to find it.
   ![SelectMaterial](/assets/images/first_laser_cut/select_material.png)
-- You can find the proper settings on [this page](../tools/lasers/glowforge.html) for all of the other materials in the Prototyping Labs
+- You can find the proper settings on [this page](https://gixlabs.github.io/laser_cutters/glowforge.html) for all of the other materials in the Prototyping Labs
 
 ## Changing Cut Settings
 
