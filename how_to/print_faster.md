@@ -1,7 +1,7 @@
 ---
 title: Print Faster
 layout: page
-parent: 3d Printers
+parent: How To
 ---
 
 # Ultimaker 3 Extended Printers

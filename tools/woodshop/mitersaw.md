@@ -2,6 +2,7 @@
 title: Miter Saw
 layout: page
 parent: Woodshop
+grand_parent: Tools
 ---
 
 # Miter Saw

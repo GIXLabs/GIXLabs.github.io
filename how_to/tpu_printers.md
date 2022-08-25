@@ -1,7 +1,7 @@
 ---
 title: Print Using Flexible Material
 layout: page
-parent: 3d Printers
+parent: How To
 ---
 
 # Flexible Material

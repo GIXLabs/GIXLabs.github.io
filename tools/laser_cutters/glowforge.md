@@ -2,6 +2,7 @@
 title: Glowforge
 layout: page
 parent: Laser Cutters
+grand_parent: Tools
 ---
 
 # Quick Reference

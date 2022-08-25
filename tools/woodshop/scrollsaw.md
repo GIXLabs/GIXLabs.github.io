@@ -2,6 +2,7 @@
 title: Scroll Saw
 layout: page
 parent: Woodshop
+grand_parent: Tools
 ---
 
 # Scroll Saw

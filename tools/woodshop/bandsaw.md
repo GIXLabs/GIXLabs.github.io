@@ -2,6 +2,7 @@
 title: Band Saw
 layout: page
 parent: Woodshop
+grand_parent: Tools
 ---
 
 # Band Saw
