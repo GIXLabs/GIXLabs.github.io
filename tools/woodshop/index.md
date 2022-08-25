@@ -2,8 +2,8 @@
 title: Woodshop
 layout: page
 parent: Tools
-has_children: true
-nav_order: 9
+has_children: True
+nav_order: 3
 ---
 
 # Welcome to the Woodshop!
