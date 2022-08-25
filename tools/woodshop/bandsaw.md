@@ -1,7 +1,7 @@
 ---
 title: Band Saw
 layout: page
-parent: Wood Shop
+parent: Woodshop
 ---
 
 # Band Saw
@@ -14,7 +14,7 @@ A band saw is a power saw with a long, sharp blade consisting of a continuous ba
 
 ## Why
 
-You may wish to use a band saw when: 
+You may wish to use a band saw when:
 - You want to make quick,  cuts
 - You need a cut that has rounded corners
 
@@ -24,7 +24,7 @@ You don't want to use a band saw when:
 ## Safety
 
 ### Equipment
-In addition to standard woodshop safety equipment, you will want to have: 
+In addition to standard woodshop safety equipment, you will want to have:
 - Safety glasses
 - Hearing protection
 

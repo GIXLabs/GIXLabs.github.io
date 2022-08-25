@@ -1,7 +1,7 @@
 ---
 title: Scroll Saw
 layout: page
-parent: Wood Shop
+parent: Woodshop
 ---
 
 # Scroll Saw

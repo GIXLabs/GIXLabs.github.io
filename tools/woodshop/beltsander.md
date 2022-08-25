@@ -1,7 +1,7 @@
 ---
 title: Belt Sander
 layout: page
-parent: Wood Shop
+parent: Woodshop
 ---
 
 # Belt Sander

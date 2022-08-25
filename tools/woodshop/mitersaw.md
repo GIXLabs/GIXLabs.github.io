@@ -1,7 +1,7 @@
 ---
 title: Miter Saw
 layout: page
-parent: Wood Shop
+parent: Woodshop
 ---
 
 # Miter Saw
