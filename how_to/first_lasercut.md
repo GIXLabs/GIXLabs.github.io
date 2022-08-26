@@ -26,10 +26,9 @@ Before getting started with the instructions below, download the [cut file here]
 - When uploaded to Glowforge
   ![DifferentUpload](/assets/images/first_laser_cut/uploaded_file.jpg)
 
-## Suggested File Formats
+## Suggested File Format
 
 - SVG
-- PDF
 
 ## Uploading a File
 
@@ -47,11 +46,11 @@ Before getting started with the instructions below, download the [cut file here]
 - Grab a piece of 0.12 inch cardboard from the material supplies and place it in the bed of the machine. Try to use a piece that already has a few cuts in it. The length and width of the board do not matter very much as you can scale your design to fit.
 - Select 1/8" Corrugated Cardboard in the top lefthand corner. You may have to use the search bar to find it.
   ![SelectMaterial](/assets/images/first_laser_cut/select_material.png)
-- You can find the proper settings on [this page](https://gixlabs.github.io/laser_cutters/glowforge.html) for all of the other materials in the Prototyping Labs
+- You can find the proper settings on [this page](https://gixlabs.github.io/tools/laser_cutters/glowforge.html) for all of the other materials in the Prototyping Labs
 
 ## Changing Cut Settings
 
-- On the lefthand side you can click on the item you want to change the settings for from engrave, score, or cut.
+- On the lefthand side you can click on the item you want to change the settings for from engrave, score, or cut. You do not need to mess with Power and Speed settings. If you see those, just press Back.
   ![ChangeSetting](/assets/images/first_laser_cut/change_settings.png)
   ![SelectSetting](/assets/images/first_laser_cut/select_settings.jpg)
 
@@ -64,6 +63,7 @@ Before getting started with the instructions below, download the [cut file here]
 
 - To change the positioning of the artwork select the artwork and drag it to the area where you want to cut it.
 - You are able to rotate and scale your artwork as well.
+- If the Print button still says "No Artwork," you will need to move your artwork closer to the center of the bed.
 
 ![MoveArtwork](/assets/images/first_laser_cut/move_artwork.gif)
 
