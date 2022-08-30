@@ -1,10 +1,9 @@
 ---
-title: Wood Shop
+title: Woodshop
 layout: page
 parent: Tools
-has_children: true
+has_children: True
+nav_order: 3
 ---
 
-# Wood Shop tools
-
-Table of woodshop tools with images
+# Welcome to the Woodshop!

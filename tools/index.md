@@ -1,8 +1,8 @@
 ---
 title: Tools
 layout: page
-has_children: true
+has_children: True
 nav_order: 3
 ---
 
-# Your one stop for all tool descriptions and SOPs
+# It's Tool Time

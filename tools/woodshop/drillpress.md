@@ -1,7 +1,7 @@
 ---
 title: Drill Press
 layout: page
-parent: Wood Shop
+parent: Woodshop
 grand_parent: Tools
 ---
 
@@ -15,10 +15,10 @@ The drill press is a versatile machine that uses a multiple-cutting-edged drill 
 
 ## Why
 
-You may wish to use a drill press when: 
+You may wish to use a drill press when:
 - You want to drill holes consistently
 - Enlarge holes with a boring tool or finishing holes with a reamer
-- Produce threads in a hole with the aid of a special tapping attachment 
+- Produce threads in a hole with the aid of a special tapping attachment
 
 <!-- You don't want to use a drill press when:
 - You need precisely straight cut -->
@@ -28,7 +28,7 @@ You may wish to use a drill press when:
 Let the spindle stop of its own accord after turning the power off. **Never** try to stop the spindle with your hand.
 
 ### Equipment
-In addition to standard woodshop safety equipment, you will want to have: 
+In addition to standard woodshop safety equipment, you will want to have:
 - Safety glasses
 - Hearing protection
 

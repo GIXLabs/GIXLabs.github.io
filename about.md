@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-nav_order: 4
+nav_order: 100
 ---
 
 # Labs

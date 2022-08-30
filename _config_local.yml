@@ -1,8 +1,8 @@
 title: GIX Labs
 description: For things related to GIX Lab space
 
-theme: just-the-docs
-# remote_theme: just-the-docs/just-the-docs
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: ""
 baseurl: ""
