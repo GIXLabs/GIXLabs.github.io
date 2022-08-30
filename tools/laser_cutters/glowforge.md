@@ -13,7 +13,7 @@ grand_parent: Tools
 | Acrylic 0.125 in.      | Medium Clear Acrylic                                                  |
 | Acrylic 0.25 in.       | Thick Clear Acrylic                                                   |
 | Cardboard 0.06 in.     | 1/8" Corrugated Cardboard                                             |
-| Cardboard 0.18 in.     | 1/8" Corrugated Cardboard                                             |
+| Cardboard 0.12 in.     | 5/32" Corrugated Cardboard                                            |
 | Chipboard 0.03 in.     | 1/8" Corrugated Cardboard                                             |
 | Chipboard 0.06 in.     | Thin Cherry Veneer                                                    |
 | Converd 0.06 in.       | 1/8" Corrugated Cardboard                                             |
