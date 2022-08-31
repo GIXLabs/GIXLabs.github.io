@@ -17,11 +17,11 @@ parent: How To
 
 ## New to Glowforge?
 
-If you haven't used the Glowforge yet, click [here](https://github.com/GIXLabs/GIXLabs.github.io/blob/main/how_to/first_lasercut.md) to learn how to use the Glowforge.
+If you haven't used the Glowforge yet, click <a href="https://gixlabs.github.io/how_to/first_lasercut.html" target="_blank">here</a> to learn how to use the Glowforge.
 
 ## Download Inkscape
 
-If you don't already have Inkscape installed on your computer, click [here](https://inkscape.org/release/) to download.
+If you don't already have Inkscape installed on your computer, click <a href="https://inkscape.org/release/" target="_blank">here</a> to download.
 
 ![Export](/assets/images/name_tag/is_dl.png)
 
@@ -75,7 +75,7 @@ If you don't already have Inkscape installed on your computer, click [here](http
 - Grab a piece of 0.125 inch MDF from the material supplies and place it in the bed of the machine. Try to use a piece that already has a few cuts in it. The length and width of the board do not matter very much as you can scale your design to fit.
 - Select Medium Draftwood in the top lefthand corner. You may have to use the search bar to find it.
   <!-- ![SelectMaterial](/assets/images/first_laser_cut/select_material.png) -->
-- You can find the proper settings on [this page](https://gixlabs.github.io/tools/laser_cutters/glowforge.html) for all of the other materials in the Prototyping Labs
+- You can find the proper settings on <a href="https://gixlabs.github.io/tools/laser_cutters/glowforge.html" target="_blank">this page</a> for all of the other materials in the Prototyping Labs
 
 ## Changing Cut Settings
 
