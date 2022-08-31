@@ -7,6 +7,7 @@ parent: How To
 # Your First Laser Cut on the Glowforge
 
 ---
+
 ## Two Rules of the Glowforge (or any laser)
 
 1. Don't leave cuts unattended.
@@ -15,6 +16,7 @@ parent: How To
 ---
 
 ## Signing up for Glowforge Account
+
 Prior to this guide, you should have been invited to the Glowforge systems by the Prototyping Labs staff, if not, please ask a member of staff to invite you. After invitation, you will receive six emails from Glowforge, one of which will be different than the others. In that different email, click on the "Getting Started" link to go through the sign up process. Glowforge accounts are free and are required to print on the Glowforge.
 
 ## Download the Sample File
@@ -77,6 +79,7 @@ Before getting started with the instructions below, download the [cut file here]
   ![PrintGlowforge](/assets/images/first_laser_cut/print_glowforge.gif)
 
 ## Removing Your Work
+
 - Once the fan has stopped running, you can open the lid and remove your finished part.
 
-## 🎉 **Congratulations! You have done your first cut on the Glowforge!** 🎉
+## **Congratulations! You have done your first cut on the Glowforge!** 🎉
