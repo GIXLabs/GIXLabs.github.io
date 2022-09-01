@@ -68,4 +68,4 @@ If you don't already have Inkscape installed on your computer, click <a href="ht
 - Select Medium Draftwood in the top lefthand corner. You may have to use the search bar to find it.
 - You can find the proper settings on <a href="https://gixlabs.github.io/tools/laser_cutters/glowforge.html" target="_blank">this page</a> for all of the other materials in the Prototyping Labs
 
-#### If you need a refresher on how to laser cut check out the first lasercut page <a href="https://gixlabs.github.io/how_to/first_lasercut.html" target="_blank">here</a>
+_If you need a refresher on how to laser cut check out the first lasercut page_ <a href="https://gixlabs.github.io/how_to/first_lasercut.html" target="_blank">here</a>
