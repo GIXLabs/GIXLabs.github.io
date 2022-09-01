@@ -7,9 +7,10 @@ parent: How To
 # Your First 3D Print
 
 ## Before You Print
+
 You will need to download and install Ultimaker Cura. The latest version can be found [here](https://ultimaker.com/software/ultimaker-cura).
 
-You will also need a file to print. We suggest this [GIX keychain](/assets/stl/GIX_keychain). You can find something from Thingiverse.com or design something in your CAD package of choice (the Prototyping Labs uses Fusion 360), but we recommend the keychain to start.
+You will also need a file to print. We suggest this [GIX keychain](/assets/stl/GIX_keychain.stl). You can find something from Thingiverse.com or design something in your CAD package of choice (the Prototyping Labs uses Fusion 360), but we recommend the keychain to start.
 
 ## Set Up Cura
 
@@ -18,9 +19,9 @@ Install Cura with the default settings. When you get to the section to add a pri
 
 ## Import Your Model
 
-Load the file in Cura. Do this by going to File->Open File(s)...->\<PATH_TO_YOUR_FILE\>. 
+Load the file in Cura. Do this by going to File->Open File(s)...->\<PATH_TO_YOUR_FILE\>.
 ![](/assets/images/first_threed/open_file.gif)
-Cura will import your model in whatever orientation it had in your CAD program. This may not always be the best orientation to print it with. If you'd like to change the orientation and placement of your model, click on the model to enable a toolbar on the left side of the UI. Here you can move, scale, rotate, and mirror the model along with some advanced options when printing from multiple files. Selecting the right orientation for your model is one of the biggest factors in determining it's print time, surface finish, and strength. We'll learn more about it one of the other tutorials. For now, if you're printing the keychain, leave the default orientation as-is. 
+Cura will import your model in whatever orientation it had in your CAD program. This may not always be the best orientation to print it with. If you'd like to change the orientation and placement of your model, click on the model to enable a toolbar on the left side of the UI. Here you can move, scale, rotate, and mirror the model along with some advanced options when printing from multiple files. Selecting the right orientation for your model is one of the biggest factors in determining it's print time, surface finish, and strength. We'll learn more about it one of the other tutorials. For now, if you're printing the keychain, leave the default orientation as-is.
 ![](/assets/images/first_threed/move_object.gif)
 
 ## Select Slicer Settings
