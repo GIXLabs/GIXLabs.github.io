@@ -15,6 +15,8 @@ The following guide explains how to sew with the Janome sewing machine, along wi
 
 1. Make sure you have the sewing machine and a thread. Place the thread on the larger spool pin located on the top of your machine. Your machine should indicate where the thread goes, or you can check your manual.
    ![](/assets/images/sewing_machine/top_view.jpg)
+   When you go to step 3 of the threading ensure that the thread is in the hook.
+   ![](/assets/images/sewing_machine/step3.jpg)
 
 2. Insert the thread through the eye of the needle
    ![](/assets/images/sewing_machine/insert_thread.gif)
