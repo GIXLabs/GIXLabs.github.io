@@ -34,12 +34,13 @@ Turn the knob on the side of your machine once or twice to catch the thread. You
 
 2. Place the fabric under the needle.
    ![](/assets/images/sewing_machine/place_fabric.gif)
-   There is a lever on the underside of your machine that you can flip to raise the presser foot. After you raise the presser foot, insert your fabric and then lower the presser foot to hold it in place.
-   ![](/assets/images/sewing_machine/lever_stepper.jpg)
-3. Apply gentle pressure to the pedal. When you are ready to sew, apply gentle pressure to the pedal with your foot. This will make the needle move and the teeth on your machine will move the fabric forward as you sew.
-   ![](/assets/images/sewing_machine/start_sewing.gif)
-   Make sure that the pedal is somewhere that is easy for you reach and that will be comfortable for you to apply pressure to.
-   ![](/assets/images/sewing_machine/foot_stepper.jpg)
+
+There is a lever on the underside of your machine that you can flip to raise the presser foot. After you raise the presser foot, insert your fabric and then lower the presser foot to hold it in place.
+
+![](/assets/images/sewing_machine/lever_stepper.jpg) 3. Apply gentle pressure to the pedal. When you are ready to sew, apply gentle pressure to the pedal with your foot. This will make the needle move and the teeth on your machine will move the fabric forward as you sew.
+![](/assets/images/sewing_machine/start_sewing.gif)
+Make sure that the pedal is somewhere that is easy for you reach and that will be comfortable for you to apply pressure to.
+![](/assets/images/sewing_machine/foot_stepper.jpg)
 
 4. Once you are done you can use a scissor or the thread cutter on the left handside to cut the thread.
 
