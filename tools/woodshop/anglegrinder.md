@@ -45,7 +45,7 @@ Make sure you're fully trained and are wearing proper protective equipment at al
 
 ## Additional Resources
 
-[![Angle Gun Basics](https://img.youtube.com/vi/rdbFYOth5hM/0.jpg)](https://youtu.be/rdbFYOth5hM "Angle Grinder Basics")
+[![Angle Grinder Basics](https://img.youtube.com/vi/rdbFYOth5hM/0.jpg)](https://youtu.be/rdbFYOth5hM "Angle Grinder Basics")
 
 ## SOP
 

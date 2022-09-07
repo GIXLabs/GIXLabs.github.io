@@ -17,12 +17,15 @@ We have 3 types of laser cutters for general purpose fabrication. They are the G
 **Engraving** works like scoring in the sense that it only cuts partially into the material. It differs from scoring in the sense that it carries out these partial cuts from the input of a rasterized image. While the laser travels directly along the specified path when doing vector scoring, it works more like a traditional printer when doing raster engraving. The laser moves back and forth along the x-axis, rapidly turning on and off to "print" an image onto the material below. Once it finishes one line it moves up a very small fraction of an inch before repeating the process. This process produces can produce very refined images but takes a long time to do it so plan accordingly if you have any tight deadlines.
 
 ## Glowforge
-TODO: add image of glowforge
+
+![Glowforge](/assets/images/laser_cutters/glowforge.jpg)
 The Glowforge is the least powerful but most user friendly laser so it probably sees the most student use. Cuts are specified via a web app and users can see a live preview of the material that they're going to cut from so it's a great way to use up scrap material.
 
 ## ULS
-TODO: add image of ULS
+
+![ULS](/assets/images/laser_cutters/uls.jpg)
 The ULS has a larger print bed and more power than the Glowforge but has a few quirks that require
 
 ## Kern
-TODO: add image of Kern
+
+![Kern](/assets/images/laser_cutters/kern.jpg)
