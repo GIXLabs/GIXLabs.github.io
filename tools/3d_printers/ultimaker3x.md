@@ -49,8 +49,8 @@ Lets go through the interface of Cura in brief.
 
 ### Navigating through Cura's Interface
 
--   To pan around the object, hold down the middle mouse button and move the mouse.
--   To rotate around the object, hold down the right mouse button and move the mouse.
+- To pan around the object, hold down the middle mouse button and move the mouse.
+- To rotate around the object, hold down the right mouse button and move the mouse.
 
 ### Slicing and Exporting from Cura
 
@@ -75,8 +75,8 @@ This section goes through importing materials to Cura, tuning layer and support 
 After copying the required .gcode files to the USB stick, follow the following steps to print the model in the Ultimaker.
 
 1. Make sure there is enough material in the Ultimaker for the print before starting the print. If the Ultimaker runs out of material, there is no way to add additional material for continuing the print, and one would have to restart the whole print with new material.
-    1. Ultimaker doesn't have a mechanism that notifies one if the existing spool is enough for the model it is about to print, so one has to use their judgement to decide if the existing material is enough for the print.
-       ![](../../assets/images/Ultimaker3_Guide/spoolcheck.jpg)
+   1. Ultimaker doesn't have a mechanism that notifies one if the existing spool is enough for the model it is about to print, so one has to use their judgement to decide if the existing material is enough for the print.
+      ![](../../assets/images/Ultimaker3_Guide/spoolcheck.jpg)
 2. Insert the USB into Ultimaker. The dial can be rotated to scroll through the options on the screen, and can be pressed to select. Select print, and the right file from the following options.  
    ![](../../assets/images/Ultimaker3_Guide/selectprint.jpg)
    ![](../../assets/images/Ultimaker3_Guide/selectmodeltoprint.jpg)
