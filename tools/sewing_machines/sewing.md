@@ -40,4 +40,5 @@ Turn the knob on the side of your machine once or twice to catch the thread. You
    ![](/assets/images/sewing_machine/foot_stepper.jpg)
 
 4. Once you are done you can use a scissor or the thread cutter on the left handside to cut the thread.
+
    ![](/assets/images/sewing_machine/done_sewing.gif)
