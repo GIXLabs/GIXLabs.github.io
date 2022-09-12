@@ -10,6 +10,8 @@ parent: How To
 
 You will need to download and install Ultimaker Cura. The latest version can be found <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank">here</a>.
 
+NOTE: you do not have to sign up for an account.
+
 You will also need a file to print. We suggest this <a href="/assets/stl/GIX_keychain.stl" download>GIX keychain</a>. You can find something from Thingiverse.com or design something in your CAD package of choice (the Prototyping Labs uses Fusion 360), but we recommend the keychain to start.
 
 ## Set Up Cura
