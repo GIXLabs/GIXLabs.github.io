@@ -1,10 +1,10 @@
 ---
-title: Make Your Own Nametag (Glowforge + Inkscape / Illustrator)
+title: Make Your Own Nametag (Glowforge + Inkscape)
 layout: page
 parent: How To
 ---
 
-# Making a nametag using Inkscape / Illustrator and Glowforge
+# Making a nametag using Inkscape and Glowforge
 
 ---
 
