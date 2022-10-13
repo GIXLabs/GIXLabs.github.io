@@ -9,7 +9,7 @@ has_children: false
 We have a few rules in the Prototyping Labs to help everyone use this shared space safely. There is never a circumstance where these rules may be broken, though the implementation of them (policies) may have some flexibility. Violation of the first two rules will result in temporary to permanent suspension of Prototyping Labs access.
 1. Be safe.
 1. Be respectful of other users.
-1. Make cool stuff.
+1. Try to make cool stuff.
 
 # Policies
 Our policies are the implementation details for the above rules. If you find that one of these policies violates a rule in your circumstances, the rule takes precedence. If there are any doubts, ask staff for clarification.
