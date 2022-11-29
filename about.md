@@ -19,3 +19,4 @@ nav_order: 100
 - Garrett Millaway
 - Tiffany Wang
 - Jessie Zhao
+- Jack Hatcher
