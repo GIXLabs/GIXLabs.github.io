@@ -20,4 +20,3 @@ nav_order: 100
 - Tiffany Wang
 - Jessie Zhao
 - Jack Hatcher
-- Lorem Ipsum
