@@ -22,3 +22,4 @@ nav_order: 100
 - Jack Hatcher
 - Alabhya Singh
 - Felix Chen
+- Yin Li
