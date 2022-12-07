@@ -21,3 +21,4 @@ nav_order: 100
 - Jessie Zhao
 - Jack Hatcher
 - Alabhya Singh
+- Felix Chen
