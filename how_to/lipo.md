@@ -33,7 +33,14 @@ Many circuits are polarized, restricting the flow of electricity in one directio
 
 # Needed Components
 ## Charging
+Charging a LiPo battery is not as simple as hooking it up to a power supply. There are several phases of charging a LiPo battery, that depend on the current voltage of the battery and its overall capacity. Some of these phases are at constant-current and others at constant-voltage. You need a charger specifically designed to charge LiPo batteries.
+
 ## Voltage Regulation
 LiPo batteries give out 3.7 V for the majority of their life (start at 4.2 V, then almost immediately drop to 3.7 V, then a steep drop at the end to 3.2 V). Your microcontroller probably does not take 3.7 V. Typically microcontrollers either want 5 V or 3.3 V.
 
 Sometimes a microcontroller, like an ESP32, can be powered with 3.7 V on the 3.3 V pin, but you may end up with unexpected behavior (the worst kind to debug).
+
+
+# References
+[Adafruit guide to LiPo batteries](https://learn.adafruit.com/li-ion-and-lipoly-batteries/)
+[Guide to LiPo batteries for RC enthusiasts](https://www.rogershobbycenter.com/lipoguide)
