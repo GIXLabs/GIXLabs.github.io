@@ -40,8 +40,6 @@ Once your part is placed, you will need to connect it to the other components wi
 ### Create your board outline
 By default, Fusion will create a rectangle for your board, but it is rather large. We can reduce the size by clicking and dragging or by changing the start and end points. Fusion also allows you to pull in a board outline from a 3D shape, but that is outside the scope of this tutorial. Note: there are two units most commonly used in PCB design: mm and mil. Those may seem like they are the same, but mm is millimeters and mil is milli-inches (machinists call them "thous").
 
-
-
 ### Place components
 We will be making this board all on one side to simplify soldering. 
 
