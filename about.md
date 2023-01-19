@@ -15,7 +15,7 @@ nav_order: 100
 ## Current Crew
 
 - Jack Hatcher
-- Alabhya Singh
+- [Alabhya Singh](https://gix.uw.edu/people/alabhya-thakur/)
 - Felix Chen
 - Yin Li
 - [Yvonne Yang](https://gix.uw.edu/people/yvonne-yang/)
