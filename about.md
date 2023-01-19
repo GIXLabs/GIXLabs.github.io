@@ -18,7 +18,7 @@ nav_order: 100
 - Alabhya Singh
 - Felix Chen
 - Yin Li
-- Yvonne Yang
+- [Yvonne Yang](https://gix.uw.edu/people/yvonne-yang/)
 
 ## Former Crew
 - Teja Balu
