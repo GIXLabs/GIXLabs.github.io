@@ -10,7 +10,7 @@ parent: How To
 
 ## Rules of CNC Milling
 
-1. Do not leave the cut unattended. 
+1. Do not leave the cut unattended.
 2. Wear ear and eye protection.
 3. Have a crew member check your files before running your first cut (or if you are unsure of success).
 
@@ -32,6 +32,7 @@ If you get a pop-up that says 'STOP Button is ON!', Press the blue re-set button
 Make sure that the CNC milling table is clear so that the tool cannot run into anything.
 
 If the tool is too low such that it would scrape the table while the machine moved, move the tool upwards a little by clicking the yellow 'To Move Tool'.
+
 ![](/assets/images/cnc_setup/open_moveTool.png)
 
 Then press the 'UP Z' button until it has enough clearance. You will need to exit this menu before continuing with the next steps.
@@ -41,7 +42,7 @@ Then press the 'UP Z' button until it has enough clearance. You will need to exi
 
 If there is a different router bit installed than the one you would like to use, you will need to switch the bit.
 
-Take the vacuum brush off of the tool end, it is only secured with magnets. 
+Take the vacuum brush off of the tool end, it is only secured with magnets.
 ![](/assets/images/cnc_setup/remove_brush.gif)
 
 To remove the current bit, use the wrenches on the magnet holder on the side of the machine to loosen the tool.
@@ -96,7 +97,7 @@ After the bit has touched the plate twice, press 'OK' on the pop-up menu, and re
 
 The machine is now homed.
 
-Open the yellow 'To Move Tool' and raise the tool enough to replace the vacuum brush. 
+Open the yellow 'To Move Tool' and raise the tool enough to replace the vacuum brush.
 
 ## Prepare Your stock
 
@@ -106,13 +107,13 @@ Plug in the glue gun next to the desk.
 Make sure the table is clear and clean. Trace an outline of your stock on the corner of the table in the same orientation as it is modelled in Fusion360.
 ![](/assets/images/cnc_setup/trace_stock.png)
 
-Lay down painters tape on the table and the stock so that the tape aligns when the stock is placed on top. Think ahead to how the piece is going to be cut; make sure that every final seperate piece will still be glued down to the table. 
+Lay down painters tape on the table and the stock so that the tape aligns when the stock is placed on top. Think ahead to how the piece is going to be cut; make sure that every final seperate piece will still be glued down to the table.
 ![](/assets/images/cnc_setup/tape_stock.png)
 
 This next step needs to be done quickly. Place your piece on the ground near the glue gun. Apply lots of glue over all the taped areas and immediately stick it to the aligned tape areas on the table. Make sure the corner of the stock and the corners of the groove in the table align. Press down heavily and evenly to ensure the piece sticks. The glue should dry in around a minute. After the glue is dry, try shoving your piece horizontally, if you can move the piece now then the machine can too. If the glue didn't stick the pieces well, you probably went too slow. Note: The tape and glue will raise your piece a fraction of a milimeter. If you need more precision than that, you're probably designing wrong. If your stock is too large to feasibly apply enough glue in time before the glue dries, speak to a crew member about other fastening options.
 ![](/assets/images/cnc_setup/secure_stock.png)
 
-Unplug the glue gun. 
+Unplug the glue gun.
 
 ## Run the machine
 
@@ -139,7 +140,7 @@ If anything goes wrong during the cut, press 'STOP' on the computer or one of th
 
 ## Post Cut
 
-Congradulations! You have successfully run your first CNC milling cut. 
+Congratulations! You have successfully run your first CNC milling cut.
 
 Turn off the spindle and the machine.
 
