@@ -16,7 +16,7 @@ Instead of starting from scratch, we can modify an existing schematic. Download 
 ## Add parts from library
 Your schematic should look like this, but it is missing a resistor. We will use the internal parts library to find a resistor and place it in our schematic.
 
-![Image of current schematic and future schematic]()
+![Image of current schematic and future schematic](/assets/how_to/first_pcb/schematic.svg)
 
 Click on the add part button.
 
