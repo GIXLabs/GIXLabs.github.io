@@ -1,7 +1,7 @@
 # GIXLabs.github.io
 
 This repository contains the source material for the GIX Labs site hosted at [gixlabs.github.io](https://gixlabs.github.io).
-The site it a [jekyll](https://jekyllrb.com) site using [just-the-docs]() layout and hosted with [GitHub Pages]() 
+The site is a [jekyll](https://jekyllrb.com) site using [just-the-docs]() layout and hosted with [GitHub Pages]() 
 
 ## Adding to the site
 
@@ -41,4 +41,4 @@ All images and SOPs are stored in the assets folder, which should have a logical
 Each page generated with Jekyll starts with front matter. 
 This is the metadata written in YAML at the top of the page that tells the site generator where the title, which layout to use, and where that page falls in the navigation tree. 
 
-See [just-the-docs](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/) documentation on navigation structure ro understand what goes in each page's front matter. 
+See [just-the-docs](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/) documentation on navigation structure to understand what goes in each page's front matter. 

@@ -1,3 +1,9 @@
+---
+title: Poster Printing with HP DesignJet T650
+layout: page
+parent: How To
+---
+
 # Poster printing using Studio Printer
 ---
 
@@ -6,7 +12,7 @@
 1. Roll of sheets 
 2. Cartridges for ink
 
-Incase of missing components, contact Maker Space Crew for quick refill.
+In case of missing components, contact Prototyping Labs staff for quick refill.
 
 
 ## Ways to Print 
