@@ -47,3 +47,7 @@ Make sure that the pedal is somewhere that is easy for you reach and that will b
    ![](/assets/images/sewing_machine/done_sewing.gif)
 
 You can download the latest SOP [here](/assets/sops/SewingMachine/SOP_SewingMachine.docx)
+
+---
+## References
+![in-depth video on how to thread the machine](https://www.youtube.com/watch?v=NUsT0plWt6Y&list=PLgdtFJNwEBoibXp2EW0zX2oYXR6D9d92H)
