@@ -50,4 +50,4 @@ You can download the latest SOP [here](/assets/sops/SewingMachine/SOP_SewingMach
 
 ---
 ## References
-![in-depth video on how to thread the machine](https://www.youtube.com/watch?v=NUsT0plWt6Y&list=PLgdtFJNwEBoibXp2EW0zX2oYXR6D9d92H)
+[in-depth video on how to thread the machine](https://www.youtube.com/watch?v=NUsT0plWt6Y&list=PLgdtFJNwEBoibXp2EW0zX2oYXR6D9d92H)
