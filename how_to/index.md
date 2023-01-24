@@ -18,6 +18,7 @@ Below are some of the categories users look for often. Some articles show up in 
 
 ## Design
 - [First Inkscape Project (Name Tag)](name_tag.html)
+- [First PCB in Fusion 360](first_pcb.html)
 
 ## 3D Printing
 - [Intro to Ultimaker 3 Extendeds](first_threed.html)
