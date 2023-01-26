@@ -92,8 +92,8 @@ After copying the required .gcode files to the USB stick, follow the following s
 ## Removing 3D print
 
 1. Remove the glass pane from the 3D printer
-   ![](../../assets/images/Ultimaker3_Guide/remove_glasspane.svg)
+   ![](../../assets/images/Ultimaker3_Guide/glass_pane_tab.png)
 2. Place it on top of one of the tables in the makerspace. Ensure when you remove the 3D print with the scraper to place your hand in the lower left or right corner to hold down the glass pane.
    ![](../../assets/images/Ultimaker3_Guide/remove_print.svg)
 3. Once you have successfully remove the print, please return the glass pane to the printer you took it out from, and ensure the tabs are secure. The supports can be removed using a plier, and the rims can be removed using a deburring tool.
-   ![](../../assets/images/Ultimaker3_Guide/remove_print_tools.svg)
+   ![](../../assets/images/Ultimaker3_Guide/remove_tools.png)
