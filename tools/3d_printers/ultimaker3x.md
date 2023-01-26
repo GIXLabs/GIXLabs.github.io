@@ -88,4 +88,12 @@ After copying the required .gcode files to the USB stick, follow the following s
 5. When the print starts, make sure the rims for the print are evenly shaped and sticks to the plate. Also, make sure the flow from the nozzle is consistent. These steps ensure that the rest of the print continues to go well.
    ![](../../assets/images/Ultimaker3_Guide/initprint.jpg)
 6. There are always chances that the print might fail at any point, and following the above initial steps reduces the probability of the print failing as one can identify faults at the beginning itself rather than later.
-7. Remove the print from the glass pane using a spatula. The supports can be removed using a plier, and the rims can be removed using a deburring tool.
+
+## Removing 3D print
+
+1. Remove the glass pane from the 3D printer
+   ![](../../assets/images/Ultimaker3_Guide/remove_glasspane.svg)
+2. Place it on top of one of the tables in the makerspace. Ensure when you remove the 3D print with the scraper to place your hand in the lower left or right corner to hold down the glass pane.
+   ![](../../assets/images/Ultimaker3_Guide/remove_print.svg)
+3. Once you have successfully remove the print, please return the glass pane to the printer you took it out from, and ensure the tabs are secure. The supports can be removed using a plier, and the rims can be removed using a deburring tool.
+   ![](../../assets/images/Ultimaker3_Guide/remove_print_tools.svg)
