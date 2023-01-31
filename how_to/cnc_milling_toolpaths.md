@@ -27,11 +27,11 @@ In the Setup menu, in the Setup tab, under "Model", select "Body" and make sure 
 
 Change to the Stock tab, in the "Mode" menu, select "Fixed size box". Enter in the dimensions of the stock (12" x 6" x 0.75") and make sure that all "Model Position" menus are set to "Center".
 
-![gif of new setup]("/assets/images/cnc_toolpaths/1-setup.gif")
+![gif of new setup](/assets/images/cnc_toolpaths/1-setup.gif)
 
 Move the origin of the stock to the bottom left corner of the stock. This spot will be at (0,0,0) on the machine. This will make it easier to align what happens on the machine with what's designed in the computer.
 
-![gif of setting stock origin]("/assets/images/cnc_toolpaths/2-stock-origin.gif")
+![gif of setting stock origin](/assets/images/cnc_toolpaths/2-stock-origin.gif)
 
 Press OK, if you ever exit the setup menu before you're done, right click the setup in the project browser and select "edit"
 
@@ -47,7 +47,7 @@ In the same Tool tab, in the "Feed & Speed" section, change the "Cutting Feedrat
 
 In the "Passes" tab, uncheck "Stock to Leave" and check "Multiple Depths". Set the "Maximum Roughing Stepdown" to 1/2 of the router bits diameter (in this case: 0.125").
 
-![gif of pocket setup]("/assets/images/cnc_toolpaths/3-pocket.gif")
+![gif of pocket setup](/assets/images/cnc_toolpaths/3-pocket.gif)
 
 You should not have to edit anything in the "Heights" or "Linking" tabs.
 
@@ -63,7 +63,7 @@ The "Heights" tab will determine the cutting depth of this operation. In the Hei
 
 In the "Passes" tab, check the "Multiple Depths" box and set the maximum stepdown to 0.125".
 
-![gif of face setup]("/assets/images/cnc_toolpaths/4-face.gif")
+![gif of face setup](/assets/images/cnc_toolpaths/4-face.gif)
 
 This operation is potentially dangerous when done inside of higher walls within the design. It is appropriate here because the area being cut is completely surrounded by areas lower than the face. If you would like a sunked design, use another 2D pocket pass.
 
@@ -73,7 +73,7 @@ The last toolpath we will use is a "2D Contour". Select it from the same 2D drop
 
 In the geometry section of the geometry tab, where it says "Contour Selection", press "Select" and click on the bottom exterior line of the overall design. The red arrow should be on the outside of the line.
 
-![gif of contour setup]("assets/images/cnc_toolpaths/5-contour.gif")
+![gif of contour setup](assets/images/cnc_toolpaths/5-contour.gif)
 
 Double check the settings in the tool tab, and select Multiple Depths in the Passes tab. Set the max roughing stepdown to 0.125". 
 
@@ -91,7 +91,7 @@ Check the bottom timeline for any warnings or errors. If there are any red or ye
 
 The last thing you should check here is the statistics tab of the simulation window. The machine time should be something reasonable. The format is hours : minutes : seconds. If it shows something far above what you expect, check your toolpath settings again before asking for help.
 
-![gif of simulation]("/assets/images/cnc_toolpaths/6-simulate.gif")
+![gif of simulation](/assets/images/cnc_toolpaths/6-simulate.gif)
 
 ### Exporting
 

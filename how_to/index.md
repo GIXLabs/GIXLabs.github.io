@@ -30,4 +30,5 @@ Below are some of the categories users look for often. Some articles show up in 
 - [Kern](/tools/laser_cutters/kern.html)
 
 ## CNC Routing
+- [Preparing Design Files for CNC](cnc_milling_toolpaths.html)
 - [Operating Shopbot CNC](cnc_milling_setup.html)
