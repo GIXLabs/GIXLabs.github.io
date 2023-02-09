@@ -16,6 +16,11 @@ We'll be designing a board to replicate one of the circuits from Sensors and Cir
 
 Instead of starting from scratch, we can modify an existing schematic. Download the incomplete schematic from <a href="/assets/how_to/first_pcb/incomplete.sch" download>here</a> and add it to a Fusion electroncis design.
 
+Once you have downloaded the file you want to click on Reference to a Schematic document, and select incomplete.sch.
+![Image of ref schematic](/assets/how_to/first_pcb/ref_schematic.gif)
+
+## Add parts from library
+=======
 ## Add Parts from Resistor Library
 
 Your schematic should look like this, but it is missing a resistor. We will use the internal parts library to find a resistor and place it in our schematic.
