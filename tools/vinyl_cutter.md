@@ -82,7 +82,7 @@ There is no right way to remove the unwanted materials around the lettering. You
 3. Rub it firmly onto the surface to aid adhesion of smaller parts.
    ![](/assets/images/vinyl_cutter/transfer_to_surface.svg)
 4. Peel off the transfer tape.
-   ![](/assets/images/vinyl_cutter/final_product.svg)
+   ![](/assets/images/vinyl_cutter/final_product1.svg)
 
 💡TIPS: The dimensions of the Roland Vinyl Cutter
 | | |
