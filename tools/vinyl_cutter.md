@@ -29,6 +29,7 @@ The screenshots below are based on Essential Classics workspace.
 2. Under model you want to select GS-24.
 3. Select the type tool and type in the text you want cut out.
 4. You then want to leave the type tool and switch over to the selection tool to select the text and expand it. (Object > Expand) Once you have done that you can see on the CutStudio that the text has appeared.
+
    ![](/assets/images/vinyl_cutter/text-cut-studio.gif)
 
 ### Part 3: Loading the Vinyl
@@ -85,9 +86,9 @@ There is no right way to remove the unwanted materials around the lettering. You
    ![](/assets/images/vinyl_cutter/final_product2.svg)
 
 💡TIPS: The dimensions of the Roland Vinyl Cutter
-| | |
-| ---------------------- | -------------------------- |
-| Acceptable media | 50 - 700 mm (2 to 27.5 in.) |
+
+| Acceptable media  | 50 - 700 mm (2 to 27.5 in.)                     |
+| ----------------- | ----------------------------------------------- |
 | Max. cutting area | Width: 584 mm (22.9 in.) Length: 25 m (984 in.) |
 
 # References
