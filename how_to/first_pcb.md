@@ -19,8 +19,6 @@ Instead of starting from scratch, we can modify an existing schematic. Download 
 Once you have downloaded the file you want to click on Reference to a Schematic document, and select incomplete.sch.
 ![Image of ref schematic](/assets/how_to/first_pcb/ref_schematic.gif)
 
-## Add parts from library
-=======
 ## Add Parts from Resistor Library
 
 Your schematic should look like this, but it is missing a resistor. We will use the internal parts library to find a resistor and place it in our schematic.
@@ -51,7 +49,7 @@ Once your part is placed, you will need to connect it to the other components wi
 
 ## Create Your Board Outline
 
-By default, Fusion will create a rectangle for your board, but it is rather large. We can reduce the size by clicking and dragging or by changing the start and end points. Fusion also allows you to pull in a board outline from a 3D shape, but that is outside the scope of this tutorial. 
+By default, Fusion will create a rectangle for your board, but it is rather large. We can reduce the size by clicking and dragging or by changing the start and end points. Fusion also allows you to pull in a board outline from a 3D shape, but that is outside the scope of this tutorial.
 
 Note: There are two units most commonly used in PCB design: mm and mil. Those may seem like they are the same, but mm is millimeters and mil is milli-inches (machinists call them "thous"). The practice of using decimals and prefixes can be applied to imperial units just as easily as metric ones.
 
