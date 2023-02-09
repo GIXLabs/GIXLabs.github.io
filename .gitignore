@@ -167,3 +167,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll,windows,macos,visualstudiocode,ruby
+
+# annoying swap files
+*.swp

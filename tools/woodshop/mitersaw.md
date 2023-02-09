@@ -55,4 +55,4 @@ Make sure you're fully trained and are wearing proper protective equipment at al
 
 ## SOP
 
-You can download the latest SOP [here](/assets/sops/MiterSaw/SOP_Miter_Saw.docx)
+You can download the latest SOP [here](/assets/sops/MiterSaw/SOP_MiterSaw.docx)
