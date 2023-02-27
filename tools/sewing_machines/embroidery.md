@@ -31,7 +31,7 @@ To know that the plugin was installed properly you can find the extension under 
 
 To do your first embroidery, we are going to start with a simple shape with a one color stitch.
 
-1. Define the workspace to the hoops capacity.
+1. Define the workspace (File > Document Properties) to the hoops capacity.
 
    | Hoop Size (workspace) in mm | Hoop name |
    | --------------------------- | --------- |
@@ -40,8 +40,6 @@ To do your first embroidery, we are going to start with a simple shape with a on
    | 230 x 300                   | GR        |
    | 100 x 40                    | FA10      |
    | 220 x 220                   | ASQ22     |
-
-   <!-- ![](add screenshot of how to change document properties) -->
 
 2. Draw a shape (circle, square, retangle or any other shape is fine).
 3. Convert the shape to a path (Path > Object to Path).
