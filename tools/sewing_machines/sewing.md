@@ -22,9 +22,10 @@ The following guide explains how to sew with the Janome sewing machine, along wi
    ![](/assets/images/sewing_machine/insert_thread.gif)
 3. Catch the thread.
 
-Turn the knob on the side of your machine once or twice to catch the thread. You should see the bottom thread come up through the machine base as you do this. Push the thread strands to the back of your machine with a ruler or other flat object.
+Turn the knob on the side of your machine once or twice to catch the bottom thread called bobbin. You should see the bobbin come up through the machine base as you do this. Push the thread strands to the back of your machine with a ruler or other flat object.
+
 ![](/assets/images/sewing_machine/catch_thread.gif)
-![](/assets/images/sewing_machine/thread_loop1.jpg)
+![](/assets/images/sewing_machine/thread_loop2.jpg)
 
 ### The sewing machine is now threaded and ready to use! 🎉
 
@@ -47,3 +48,9 @@ Make sure that the pedal is somewhere that is easy for you reach and that will b
    ![](/assets/images/sewing_machine/done_sewing.gif)
 
 You can download the latest SOP [here](/assets/sops/SewingMachine/SOP_SewingMachine.docx)
+
+---
+
+## References
+
+[In-depth video on how to thread the machine](https://www.youtube.com/watch?v=NUsT0plWt6Y&list=PLgdtFJNwEBoibXp2EW0zX2oYXR6D9d92H)

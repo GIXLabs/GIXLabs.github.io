@@ -33,8 +33,8 @@ The screenshots below are based on Essential Classics workspace.
 6. You can do this in the cutstudio plugin by clicking on ‘outline text’ or ‘outline stroke’ if the image is not already saved as a path or outline.
 7. For many fonts, you may also need to click on ‘merge overlapping paths’.
    ![](/assets/images/vinyl_cutter/outline_stroke.png)
-
 8. You then want to leave the type tool and switch over to the selection tool to select the text and expand it. (Object > Expand) Once you have done that you can see on the CutStudio that the text has appeared.
+
    ![](/assets/images/vinyl_cutter/text-cut-studio.gif)
 
 ### Part 3: Loading the Vinyl
@@ -106,9 +106,9 @@ There is no right way to remove the unwanted materials around the lettering. You
    ![](/assets/images/vinyl_cutter/placement.png)
 
 💡TIPS: The dimensions of the Roland Vinyl Cutter
-| | |
-| ---------------------- | -------------------------- |
-| Acceptable media | 50 - 700 mm (2 to 27.5 in.) |
+
+| Acceptable media  | 50 - 700 mm (2 to 27.5 in.)                     |
+| ----------------- | ----------------------------------------------- |
 | Max. cutting area | Width: 584 mm (22.9 in.) Length: 25 m (984 in.) |
 
 # References
