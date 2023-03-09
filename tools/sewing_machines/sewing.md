@@ -7,7 +7,7 @@ grand_parent: Tools
 
 # Sewing Machine
 
-Janome sewing machine is the standard sewing machine that is used in the Labs. If you have used a sewing machine before than it is not any different from the other brands.
+Janome sewing machine is the standard sewing machine that is used in the Labs. If you have used a sewing machine before then it is not any different from the other brands.
 
 The following guide explains how to sew with the Janome sewing machine, along with the relevant steps one has to take. The guide assumes one already has the sewing machine in front of them and fabric ready.
 
