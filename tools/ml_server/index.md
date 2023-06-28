@@ -1,9 +1,8 @@
-
 ---
-title: Sewing Machines
+title: Machine Learning Server
 layout: page
 has_children: True
-nav_order: 5
+nav_order: 6
 parent: Tools
 ---
 # Server specs and info
@@ -33,10 +32,14 @@ parent: Tools
 
 Sending an email to [gixhelp@uw.edu](mailto:gixhelp@uw.edu), with the title starts with [ML Server User Add], with:
 
-* Your use case (either course project or personal project are fine, but please tell us your usage)
-* Your desired username
-* Your SSH public key ([what is this?](https://www.techrepublic.com/article/how-to-view-your-ssh-keys-in-linux-macos-and-windows/)). With this, you can log into your account without a password.
-  * Mac user: open terminal -> type ssh-keygen and hit enter until the keygen program ends -> type cat ~/.ssh/id_rsa.pub and hit enter -> copy the content
-  * For convenience and safety, we do not support password login.
-    We’ll create detailed instructions on how to use it with VSCode Remove Server plugins
-* After each quarter, we will clean the users on the server. If you want to use it after the quarter, please let us know in advance (before the final week).
+Your use case (either course project or personal project are fine, but please tell us your usage)
+
+Your desired username
+
+Your SSH public key ([what is this?](https://jumpcloud.com/blog/what-are-ssh-keys)). With this, you can log into your account without a password.
+
+* Mac user: open terminal -> type ssh-keygen and hit enter until the keygen program ends -> type cat ~/.ssh/id_rsa.pub and hit enter -> copy the content
+* For convenience and safety, we do not support password login.
+* We’ll create detailed instructions on how to use it with VSCode Remove Server plugins
+
+After each quarter, we will clean the users on the server. If you want to use it after the quarter, please let us know in advance (before the final week).
