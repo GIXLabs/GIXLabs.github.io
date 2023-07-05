@@ -14,7 +14,7 @@ We'll be designing a desk tray to demo some of the most usefull CNC toolpath typ
 
 ## Downnload the Design
 
-In order to teach about toolpaths, we all need to work on a consistent base. Download the design <a href="/assets/how_to/cnc_tutorial_tray/GIX_Desk_Tray.f3d" download>here</a> and open it with Fusion 360. As long as the outer dimensions stay the same, we encourage your to customize the design to fit your desk.
+In order to teach about toolpaths, we all need to work on a consistent base. Download the design <a href="/assets/how_to/cnc_tutorial_tray/GIX_Desk_Tray.f3d" download>here</a> and open it with Fusion 360. As long as the outer dimensions stay the same, we encourage you to customize the design to fit your desk.
 
 ## Prepare the Toolpaths
 
@@ -55,7 +55,7 @@ You should not have to edit anything in the "Heights" or "Linking" tabs.
 
 ### 2D Face
 
-The next toolpath we will use is called a "facing" path. This is usefull for cleaning up a flat, top surface of a design. In the 2D dropdown menu, select "Face".
+The next toolpath we will use is called a "facing" path. This toolpath is not necessary for most CNC milling projects, but is usefull for cleaning up a flat, top surface of a design or planing large pieces of stock. In the 2D dropdown menu, select "Face".
 
 In the geometry tab of the Face menu, select the outer contour of the raised 'X' design. 
 
@@ -75,7 +75,7 @@ The last toolpath we will use is a "2D Contour". Select it from the same 2D drop
 
 In the geometry section of the geometry tab, where it says "Contour Selection", press "Select" and click on the bottom exterior line of the overall design. The red arrow should be on the outside of the line.
 
-![gif of contour setup](assets/images/cnc_toolpaths/5-contour.gif)
+![gif of contour setup](/assets/images/cnc_toolpaths/5-contour.gif)
 
 Double check the settings in the tool tab, and select Multiple Depths in the Passes tab. Set the max roughing stepdown to 0.125". 
 
