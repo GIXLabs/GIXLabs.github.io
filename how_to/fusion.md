@@ -37,7 +37,7 @@ Sometimes you will want to take a 2D shape you have designed and pull it into Fu
 [Importing Vector Art](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-import-SVG-files-in-Fusion-360.html)
 
 # Engineering Drawings
-Machine shops and manufacturers often require engineering drawings to make your part. Fusion 360 also has an environment for making these shop drawings. Many Fabrication course (TECHIN 511) assignments also require engineering 
+Machine shops and manufacturers often require engineering drawings to make your part. Fusion 360 also has an environment for making these shop drawings. Many Fabrication course (TECHIN 511) assignments also require engineering drawings.
 
 [Creating Engineering Drawings](https://www.youtube.com/watch?v=ZA3_tS4puIc)
 
