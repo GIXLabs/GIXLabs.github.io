@@ -111,7 +111,7 @@ Unplated)
 
 ![Image of Layer/Template Dropdown](/assets/how_to/ProtolaserU4/DropDown.svg)
 
-![Image of Layer/Template Complete](/assets/how_to/ProtolaserU4/Layer_Template_Complete)
+![Image of Layer/Template Complete](/assets/how_to/ProtolaserU4/Layer_Template_Complete.svg)
 
 
 ### Step 10
@@ -133,7 +133,7 @@ On the top menu Click on Insert, at the bottom is the fiducial option, mouse ove
 
 (For info on what Fiducials are: [Fiducial marker - Wikipedia](https://en.wikipedia.org/wiki/Fiducial_marker))
 
-![Image of Fiducial Menu and Button](/assets/how_to/ProtolaserU4/Fiducal_Select.svg)
+![Image of Fiducial Menu and Button](/assets/how_to/ProtolaserU4/Fiducial_Select.svg)
 
 
 ### Step 12
