@@ -51,9 +51,10 @@ Cropping in Inkscape is called clipping. [This video](https://youtu.be/v-JxhF3D4
 # Rounding Corners
 [Rounding corners in Inkscape (only works on version 1.3+)](https://superuser.com/questions/640954/inkscape-rounding-corners-of-shapes)
 
-![Dimensioning](/assets/how_to/dimensioning.svg)
+# Dimensioning
+Inkscape was made for graphic designers, not engineers, but you can still dimension objects accurately using the toolbar (see image below). The dimensioning tools are not as robust as those you would find in parametric CAD.
 
-Dimensioning (e.g. is your rectangle going to come out of the laser cutter the right size :) )
+![Dimensioning](/assets/how_to/dimensioning.svg)
 
 # Working with Layers
 Layers allow you to lock or hide certain aspects of your design while you edit others. For example, when tracing a hand sketch you will want to lock your reference image so you don't accidentally move it around. When you finish tracing, you may want to hide that reference image, but not delete it. Layers can help with both of these issues.
