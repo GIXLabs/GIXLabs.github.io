@@ -51,6 +51,8 @@ Cropping in Inkscape is called clipping. [This video](https://youtu.be/v-JxhF3D4
 # Rounding Corners
 [Rounding corners in Inkscape (only works on version 1.3+)](https://superuser.com/questions/640954/inkscape-rounding-corners-of-shapes)
 
+![Dimensioning](/assets/how_to/dimensioning.svg)
+
 Dimensioning (e.g. is your rectangle going to come out of the laser cutter the right size :) )
 
 # Working with Layers
