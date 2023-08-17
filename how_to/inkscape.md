@@ -10,11 +10,11 @@ For 2D design, we recommend the open source software Inkscape ([download here](h
 We recommend you read through and watch the links in the Why Vector Graphics, Working with Shapes, and Creating Smooth Curve (Paths) sections here in that order. The rest of the page are references that you may find useful as you encounter challenges in your design. Please refer back to this page when you have questions (or Google it).
 
 # Why Vector Graphics?
-Most images you see are bitmaps (collections of pixels, also sometimes called raster images), which become pixellated when you zoom in. **Vector graphics don't**, you can zoom in as much as you want and a vector graphic won't become pixellated. Instead of being essentially an Excel spreadsheet with boxes colored in (bitmaps), vector graphics are collections of points (nodes), and curviture associated with those points (nodes), which are rendered using a bunch of math (which luckily you don't need to know).
+Most images you see are bitmaps (collections of pixels, also sometimes called raster images), which become pixellated when you zoom in. **Vector graphics don't**, you can zoom in as much as you want and a vector graphic won't become pixellated. While bitmaps are essentially Excel spreadsheets with boxes colored in, vector graphics are collections of points (nodes), and curviture associated with those points (nodes), which are rendered using a bunch of math (which luckily you don't need to know).
 
-Try zooming in on this image where the left side is a bitmap and the right is a vector.
+Try zooming in on this image where the left side is a bitmap and the right is a vector. The resolution on the left side has been intentionally reduced to accentuate the difference.
 
-![Try zooming in](/assets/how_to/rasterVsVector.svg)
+![Try zooming in](/assets/how_to/inkscape/rasterVsVector.svg)
 
 This turns out to be really handy when creating images that may need to be scaled for different displays (phone, jumbotron, webpage, banners, swag, etc) and for telling a laser where to cut.
 
@@ -38,9 +38,8 @@ Sometimes you will need to edit those paths (and nodes) directly to get exactly 
 
 # Alignment and Positioning
 Although you can place items on the page exactly where you want using the X and Y coordinates on the top bar, that's a bit painful. Inkscape has a couple of tools to help you place object relative to each other: the Align and Distribute window and Snaps.
-
-[Align and Distribute](https://www.youtube.com/watch?v=MNgjZDkQW1w)
-[Snaps](https://www.youtube.com/watch?v=tO8042mFRl8)
+- [Align and Distribute](https://www.youtube.com/watch?v=MNgjZDkQW1w)
+- [Snaps](https://www.youtube.com/watch?v=tO8042mFRl8)
 
 # Text to Path for Laser Cutting
 To process text on a laser, you must convert it from a text block to a path. Select your text, then on the top bar Path > Object to Path. If you fail to do this, your text will not show up in the laser interface.
@@ -52,9 +51,9 @@ Cropping in Inkscape is called clipping. [This video](https://youtu.be/v-JxhF3D4
 [Rounding corners in Inkscape (only works on version 1.3+)](https://superuser.com/questions/640954/inkscape-rounding-corners-of-shapes)
 
 # Dimensioning
-Inkscape was made for graphic designers, not engineers, but you can still dimension objects accurately using the toolbar (see image below). The dimensioning tools are not as robust as those you would find in parametric CAD.
+Inkscape was made for graphic designers, not engineers, but you can still dimension objects accurately using the toolbar (see image below). There is also a measurement tool on the left-hand toolbar, which can help check whether your part is the size you want (we recommend using snaps with this tool).
 
-![Dimensioning](/assets/how_to/dimensioning.svg)
+![Dimensioning](/assets/how_to/inkscape/dimensioning.svg)
 
 # Working with Layers
 Layers allow you to lock or hide certain aspects of your design while you edit others. For example, when tracing a hand sketch you will want to lock your reference image so you don't accidentally move it around. When you finish tracing, you may want to hide that reference image, but not delete it. Layers can help with both of these issues.
