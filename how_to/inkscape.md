@@ -5,6 +5,8 @@ parent: How To
 ---
 
 # Getting Started
+Vector graphics programs are essential for creating and communicating concepts visually. Designers use these platforms professionally to quickly share ideas, create production-ready files, and design finished presentation assets. They are great for creating editable files and when you need precise visual data.
+
 For 2D design, we recommend the open source software Inkscape ([download here](https://inkscape.org/en/release/)). Any other vector graphics software (like Adobe Illustrator, CorelDRAW, Gravit.io, Affinity Designer, etc) will also work for our purposes.
 
 We recommend you read through and watch the links in the Why Vector Graphics, Working with Shapes, and Creating Smooth Curve (Paths) sections here in that order. The rest of the page are references that you may find useful as you encounter challenges in your design. Please refer back to this page when you have questions (or Google it).
