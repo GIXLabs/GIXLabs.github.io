@@ -11,7 +11,7 @@ parent: Tools
 * RAM: 8 X 32GB
 * GPU: Nvidia RTX 4090 (so far the fastest GPU for machine learning...)
 * 2TB SSD storage + 8TB HDD storage
-* IP address: 10.155.234.141
+* IP address: 10.155.234.172
 * SSH port: 22
 
 # What you can do with it:
