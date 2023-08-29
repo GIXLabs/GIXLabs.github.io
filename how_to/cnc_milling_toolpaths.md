@@ -12,7 +12,7 @@ We'll be designing a desk tray to demo some of the most usefull CNC toolpath typ
 
 ---
 
-## Downnload the Design
+## Download the Design
 
 In order to teach about toolpaths, we all need to work on a consistent base. Download the design <a href="/assets/how_to/cnc_tutorial_tray/GIX_Desk_Tray.f3d" download>here</a> and open it with Fusion 360. As long as the outer dimensions stay the same, we encourage you to customize the design to fit your desk.
 
