@@ -71,7 +71,7 @@ To do your first embroidery, we are going to start with a simple shape with a on
 
 💡TIP: When you save the file on the USB and you are unable to see you file ensure that it is saved in a Folder called EMB if you are still unable to see your file in the EMB folder save it in the folder called Embf.
 
-**NOTE:** If the Embroidery machine is not threaded please refer to [Threading the Machine](https://www.youtube.com/watch?v=gr2DjmayZlk&t=553) video to help you thread the machine, do keep in mind that the auto threader on our machine does not work properly, so you would have to manually insert the thread into the needle head once you reach that part.
+**NOTE:** If the Embroidery machine is not threaded please refer to [Threading the Machine](https://www.youtube.com/watch?v=gr2DjmayZlk&t=553) video to help you thread the machine, do keep in mind that the auto threader on our machine breaks easily, so you may have to manually insert the thread into the needle head once you reach that part. Usually the auto threader can be gently bent back into place.
 
 ### Congratulations on your first embroidery! 🎉
 
