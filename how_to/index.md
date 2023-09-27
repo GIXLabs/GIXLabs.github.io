@@ -37,3 +37,7 @@ Below are some of the categories users look for often. Some articles show up in 
 ## CNC Routing
 - [Preparing Design Files for CNC](cnc_milling_toolpaths.html)
 - [Operating Shopbot CNC](cnc_milling_setup.html)
+
+## Sewing
+- [Using Sewing Machine](/tools/sewing_machines/sewing.html)
+- [Using Embroidery Machine](/tools/sewing_machines/embroidery.html)
