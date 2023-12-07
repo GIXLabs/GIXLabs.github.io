@@ -33,8 +33,11 @@ Always start perfboard by wiring with female headers so you easily remove your e
 ## Clipping female headers
 It looks ugly, but you should clip your female headers to the appropriate number of pins. The best way to do this is to cut the pin next to the last one you want to use. For example, if you want 4 pins, clip the row in the middle of the 5th pin.
 
+![Image of clipping female headers](/assets/how_to/wearable/clip_fem.svg)
+
 ## Soldering wiring
 For this you'll need solid core wiring from the wire cart.
+
 
 ## Test connections with multimeter
 
