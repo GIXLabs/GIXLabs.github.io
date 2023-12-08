@@ -50,3 +50,6 @@ Make sure you have installed the board under the Board Manager. Check the gettin
 First run the I2C scanner to see if your device is connected properly. If the I2C scanner doesn't find your device, you have a problem with wiring and should use a multimeter with the continuity setting to see whether all of the pins are connected properly.
 
 Make sure you are testing with the example code first so you can isolate whether it is your wiring or your code.
+
+## "I don't see the RP2040 port in the Arduino IDE."
+The first time you flash code to the RP2040 you will need to put it into bootloader mode. To do this, hold the `boot` button, keep holding it, momentarily press the `reset` button, then release the `boot` button. The RP2040 should now show up as an option under the Tools menu.
