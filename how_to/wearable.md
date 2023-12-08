@@ -4,6 +4,8 @@ layout: page
 parent: How To
 ---
 
+# Making your First Wearable
+
 # Solderless breadboard
 When you're starting a new electronics project, you should always* start with a solderless breadboard. These make wiring easy and are easily reconfigurable when you find you've made a mistake.
 
@@ -35,6 +37,11 @@ Always start perfboard by wiring with female headers so you easily remove your e
 It looks ugly, but you should clip your female headers to the appropriate number of pins. The best way to do this is to cut the pin next to the last one you want to use. For example, if you want 4 pins, clip the row in the middle of the 5th pin.
 
 ![Image of clipping female headers](/assets/how_to/wearable/clip_fem.svg)
+
+## Solder female headers in place
+Place the female sockets through a piece of perfboard an solder one pin. After you have soldered one pin, check to see whether the header is straight. If it is not, reheat the pin and adjust the header.
+
+Put these all in place before moving on to wiring. It's a good idea to make sure the components fit. You don't want any of the components to touch each other
 
 ## Soldering wiring
 For this you'll need solid core wiring from the wire cart.
