@@ -23,6 +23,7 @@ Once you have the library installed, it likely has example code you can find by 
 - [SAMD21](https://learn.adafruit.com/adafruit-qt-py)
 - [RP2040](https://learn.adafruit.com/adafruit-qt-py-2040)
 - [ESP32](https://learn.adafruit.com/adafruit-qt-py-esp32-s3)
+- [Raspberry Pi Pico](https://randomnerdtutorials.com/programming-raspberry-pi-pico-w-arduino-ide/)
 
 ## Wire the rest, one at a time
 Repeat this process for each of your components.
@@ -40,7 +41,7 @@ For this you'll need solid core wiring from the wire cart.
 
 
 ## Test connections with multimeter
-
+The continuity setting tends to be most helpful (beep beep). Set the multimeter to 
 
 # Debugging
 ## "I can't flash code to my microcontroller, it doesn't show up in the Arduino IDE."
