@@ -4,6 +4,8 @@ layout: page
 parent: How To
 ---
 
+# Making your First Wearable
+
 # Solderless breadboard
 When you're starting a new electronics project, you should always* start with a solderless breadboard. These make wiring easy and are easily reconfigurable when you find you've made a mistake.
 
@@ -23,6 +25,7 @@ Once you have the library installed, it likely has example code you can find by 
 - [SAMD21](https://learn.adafruit.com/adafruit-qt-py)
 - [RP2040](https://learn.adafruit.com/adafruit-qt-py-2040)
 - [ESP32](https://learn.adafruit.com/adafruit-qt-py-esp32-s3)
+- [Raspberry Pi Pico](https://randomnerdtutorials.com/programming-raspberry-pi-pico-w-arduino-ide/)
 
 ## Wire the rest, one at a time
 Repeat this process for each of your components.
@@ -35,12 +38,17 @@ It looks ugly, but you should clip your female headers to the appropriate number
 
 ![Image of clipping female headers](/assets/how_to/wearable/clip_fem.svg)
 
+## Solder female headers in place
+Place the female sockets through a piece of perfboard an solder one pin. After you have soldered one pin, check to see whether the header is straight. If it is not, reheat the pin and adjust the header.
+
+Put these all in place before moving on to wiring. It's a good idea to make sure the components fit. You don't want any of the components to touch each other
+
 ## Soldering wiring
 For this you'll need solid core wiring from the wire cart.
 
 
 ## Test connections with multimeter
-
+The continuity setting tends to be most helpful (beep beep). Set the multimeter to 
 
 # Debugging
 ## "I can't flash code to my microcontroller, it doesn't show up in the Arduino IDE."
