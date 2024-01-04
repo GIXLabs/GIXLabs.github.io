@@ -1,3 +1,9 @@
+---
+title: Installing Ubuntu and ROS for Robotics Lab 1
+layout: page
+parent: How To
+---
+
 # Install Ubuntu 20.04.6 LTS
 Robotics Lab 1 (TECHIN516) uses ROS Noetic, which requires an installation of Ubuntu 20.04.6 LTS.
 1. Best case: Dual boot
