@@ -14,13 +14,15 @@ Virtual machine is your only option. [Here's a link to a great tutorial by Maaso
 
 ## PC
 - If NVIDIA graphics card (search for Device Manager in Start menu and look under Display Adapters)
-    - Do not dual boot, use [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Detailed installation instructions [here](https://linuxhint.com/install_ubuntu_virtualbox_2004/). Members of the Prototyping Lab staff have USB drives with the disk image already downloaded.
+    - **Do not dual boot**, use [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Detailed installation instructions [here](https://linuxhint.com/install_ubuntu_virtualbox_2004/). Members of the Prototyping Lab staff have USB drives with the disk image already downloaded.
     - To enable copy and paste between your Windows installation and VirtualBox, follow the tutorial [here](https://medium.com/@amanshuklalinux/how-to-enable-copy-paste-from-host-to-vm-in-virtualbox-2bf76dc0c0b0).
+        - Note: pasting in a terminal in Ubuntu is done with CTRL+SHIFT+V.
     - VirtualBox default installation does not give you sudo privileges, so you will need to run the following commands in a Terminal:
         - `su -`
         - `sudo adduser [username] sudo`
     - Sudo privileges won't be added until you reboot Ubuntu.
 - Else 
+    - Backup any files on your computer that you don't want to lose.
     - Check whether you have BitLocker on and turn it off. [Instructions for turning off BitLocker.](https://www.wikihow.com/Turn-Off-BitLocker)
     - Plug boot drive into computer
     - Look up what button you usually need to press to get into boot mode on your laptop model. Try Googling: "Entering boot mode on [your laptop model here]"
@@ -29,7 +31,7 @@ Virtual machine is your only option. [Here's a link to a great tutorial by Maaso
     - Find the option for your boot drive and choose the one that says Ubuntu (there may be more characters, that's ok).
     - Choose Install Ubuntu 20.04.6 LTS.
     - Minimal installation.
-    - Install along side Windows Boot Manager. DANGER, you can erase your main OS if you aren't careful here.
+    - Install along side Windows Boot Manager. **DANGER**, you can erase your main OS if you aren't careful here.
 
 # Install ROS Noetic
 - Open a terminal in Ubuntu.
