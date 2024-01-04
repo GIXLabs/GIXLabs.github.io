@@ -10,8 +10,7 @@ Robotics Lab 1 (TECHIN516) uses ROS Noetic, which requires an installation of Ub
 1. Backup: Virtual machine
 
 ## Mac
-Virtual machine is your only option.
-[Link to Maason doc]
+Virtual machine is your only option. [Here's a link to a great tutorial by Maason.](https://uwnetid.sharepoint.com/:w:/r/sites/gix/Shared%20Documents/Shared%20Externally/Shared%20with%20Student%20IT%20Employees/Course%20Resources/TECHIN%20514%20-%20Hardware%20%26%20Software%20Lab%20-%20Robotics/Installing%20a%20Linux%20VM%20on%20Mac%20M1%20Guide.docx?d=w6db6355a2f2840c39c424867cd2c891a&csf=1&web=1&e=bVffSS)
 
 ## PC
 - If NVIDIA graphics card (search for Device Manager in Start menu and look under Display Adapters)
