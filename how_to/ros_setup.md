@@ -16,6 +16,7 @@ Virtual machine is your only option. [Here's a link to a great tutorial by Maaso
 - If NVIDIA graphics card (search for Device Manager in Start menu and look under Display Adapters)
     - Do not dual boot, use [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Detailed installation instructions [here](https://linuxhint.com/install_ubuntu_virtualbox_2004/). Members of the Prototyping Lab staff have USB drives with the disk image already downloaded.
     - To enable copy and paste between your Windows installation and VirtualBox, follow the tutorial [here](https://medium.com/@amanshuklalinux/how-to-enable-copy-paste-from-host-to-vm-in-virtualbox-2bf76dc0c0b0).
+        - Note: pasting in a terminal in Ubuntu is done with CTRL+SHIFT+V.
     - VirtualBox default installation does not give you sudo privileges, so you will need to run the following commands in a Terminal:
         - `su -`
         - `sudo adduser [username] sudo`
