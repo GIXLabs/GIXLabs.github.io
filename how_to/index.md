@@ -43,4 +43,4 @@ Below are some of the categories users look for often. Some articles show up in 
 - [Using Embroidery Machine](/tools/sewing_machines/embroidery.html)
 
 ## Maintenance
-- [Fixing Goops on Ultimakers](3dp_gooped.md)
+- [Fixing Goops on Ultimakers](3dp_gooped.html)
