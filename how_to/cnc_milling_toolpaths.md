@@ -100,5 +100,5 @@ The last thing you should check here is the statistics tab of the simulation win
 Once everything looks ready to cut, you will need to export the CNC code for the router. Right click on the setup and press "Post Process". 
 In the pop-up window, press the drop-down menu next to "Post" and select "Choose from Library", this is where you will select the type of machine you will be cutting on. For our shop choose "ShopBot OpenSBP / shopbot"
 You also need to change the name of your file here. It is best practice to include the size of the router bit youre using e.g. "1-4b\_desk\_tray".
-Press "Post" and refer to [this](/how_to/cnc_milling_setup.md) tutorial for setting up the machine to cut.
+Press "Post" and refer to [this](cnc_milling_setup.html) tutorial for setting up the machine to cut.
 

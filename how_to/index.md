@@ -15,27 +15,32 @@ Below are some of the categories users look for often. Some articles show up in 
 # Contents
 
 ## Getting Started
-
 - [3D Printing](first_threed.html)
 - [Laser Cutting](first_lasercut.html)
 
 ## Design
-
+- [Vector Graphics (Inkscape)](inkscape.html)
+- [3D Modeling (Fusion 360)](fusion.html)
 - [First Inkscape Project (Name Tag)](name_tag.html)
 - [First PCB in Fusion 360](first_pcb.html)
 
 ## 3D Printing
-
-- [Intro to Ultimaker 3 Extendeds](first_threed.html)
+- [Intro to Printing on Ultimaker 3 Extendeds](first_threed.html)
 - [3D Printing Faster](print_faster.html)
 - [Printing in Flexible Filament (TPU)](tpu_printers.html)
 
 ## Laser Cutting
-
+- [Glowforges](first_lasercut.html)
 - [ULS Lasers](/tools/laser_cutters/uls.html)
 - [Kern](/tools/laser_cutters/kern.html)
 
 ## CNC Routing
-
 - [Preparing Design Files for CNC](cnc_milling_toolpaths.html)
 - [Operating Shopbot CNC](cnc_milling_setup.html)
+
+## Sewing
+- [Using Sewing Machine](/tools/sewing_machines/sewing.html)
+- [Using Embroidery Machine](/tools/sewing_machines/embroidery.html)
+
+## Maintenance
+- [Fixing Goops on Ultimakers](3dp_gooped.html)
