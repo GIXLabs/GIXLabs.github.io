@@ -13,7 +13,7 @@ Note: This page assumes that you are already familiar with the basic concepts an
 ![](/assets/images/ULS_Guide/uls.jpeg)
 
 Compared to the Glowforges, the ULSs have more stringent requirements for your cut file but offer greater speed and power in return. They have a larger print bed, 18"x24" compared to the Glowforges' 12"x20.4". The basic steps for cutting with the ULS are:
-1. Properly format your SVG file
+1. Properly format your SVG file (details below)
 2. "Print" the file from the dedicated ULS computers to the ULS software
 3. Configure your settings in the ULS software
 4. Turn on the dedicated ULS fume extraction
