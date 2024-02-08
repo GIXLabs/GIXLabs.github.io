@@ -70,7 +70,7 @@ If you got your Gerber files from Fusion 360 you are looking for a folder named 
 
 ### Step 7
 ---
- Go into the GerberFiles Folder and select the copper_bottom, copper_top, and profile gerber files (ctrl + click to select multiple files).
+ Go into the GerberFiles Folder and select the copper_bottom, copper_top, and profile gerber files (ctrl + click to select multiple files). If your file was made using KiCAD, these will be named [your project name]-B_Cu.gbr, -F_Cu.gbr, and -Edge_Cuts.gbr.
 
  Once those three are selected, click Open.
 
