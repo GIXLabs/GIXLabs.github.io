@@ -79,7 +79,7 @@ If you got your Gerber files from Fusion 360 you are looking for a folder named 
  ![Image of Gerber Files](/assets/how_to/ProtolaserU4/GerberFiles.svg)
 
 
- ### Step 8
+### Step 8
 ---
 In the Import window, click on Add File in the bottom left corner.
   
