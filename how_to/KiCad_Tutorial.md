@@ -54,7 +54,7 @@ The Choose Symbol window should open (it might take a little while while it is l
 
 We can now place the component on the schematic. Click anywhere within the border of the schematic to place your component. If you end up not liking where you placed your component you can always move it later by click on the component and dragging it to the desired location. To stop adding components when you click in the schematic, press the Esc key on your keyboard.
 
-![Image of LM317 placed in the schematic](/assets/how_to/KiCad_Tutorial/PlaceLM317)
+![Image of LM317 placed in the schematic](/assets/how_to/KiCad_Tutorial/PlaceLM317.svg)
 
 ### Step 7
 ---
