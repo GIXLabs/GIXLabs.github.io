@@ -30,11 +30,11 @@ parent: Tools
 
 # How to use it?
 
-Sending an email to [gixhelp@uw.edu](mailto:gixhelp@uw.edu), with the title starts with [ML Server User Add], with:
+Sending an email to [gixhelp@uw.edu](mailto:gixhelp@uw.edu) with your UW email. Your NetID will be your username.
 
-Your use case (either course project or personal project are fine, but please tell us your usage)
+Please set the subject as "ML Server User Add: [YourNetIDHere]", with:
 
-Your desired username
+Your use case (coursework or personal projects are fine, but please tell us your usage)
 
 Your SSH public key ([what is this?](https://jumpcloud.com/blog/what-are-ssh-keys)). With this, you can log into your account without a password.
 
