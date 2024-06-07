@@ -84,7 +84,7 @@ Press OK on the pop-up. Select the yellow 'To Move Tool'.
 
 ![](/assets/images/cnc_setup/open_moveTool.png)
 
-Using the arrow buttons on the yellow 'To Move Tool' menu, move the tool approximately above the X and Y position zero-position of the stock as in Fusion 360 model. You can move the Z axis up and down to visually check if the Tool is near to the zero-position. Be careful not to lower the z axis too much such that it hits the stock/bed.
+Using the arrow buttons on the yellow 'To Move Tool' menu, position the tool approximately above the X and Y zero points of the stock, as indicated in the Fusion 360 model. You can adjust the Z-axis up and down to visually confirm that the tool is near the zero position. Be careful not to lower the Z-axis too much to avoid hitting the stock or bed.
 
 ![](/assets/images/cnc_setup/move_coordinates.png)
 
