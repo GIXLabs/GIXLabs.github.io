@@ -20,7 +20,7 @@ parent: How To
 
 Sign into the CNC milling computer using your UW net ID and password.
 
-Turn on the machine, note: there are two power switches, one turns on the machine's computer, one turns on the spindle, wait to turn on the spindle until you are ready to cut. You should hear the fan above the spindle begin to make noise.
+Turn on the machine, note: there are two power switches, one turns on the machine's computer (the one shown in the red circle), one turns on the spindle (the one with key), wait to turn on the spindle until you are ready to cut. You should hear the fan above the spindle begin to make noise.
 
 ![](/assets/images/cnc_setup/turn_on_machine.png)
 
@@ -84,7 +84,7 @@ Press OK on the pop-up. Select the yellow 'To Move Tool'.
 
 ![](/assets/images/cnc_setup/open_moveTool.png)
 
-Type 0.944, -0.268 in for the X and Y position, then press the big green 'GO TO' button to make the machine move to these coordinates.
+Using the arrow buttons on the yellow 'To Move Tool' menu, move the tool approximately above the X and Y position zero-position of the stock as in Fusion 360 model. You can move the Z axis up and down to visually check if the Tool is near to the zero-position. Be careful not to lower the z axis too much such that it hits the stock/bed.
 
 ![](/assets/images/cnc_setup/move_coordinates.png)
 
@@ -94,7 +94,7 @@ Press the blue 'Zero Axes' button and reset the machine’s X and Y zero-positio
 
 ![](/assets/images/cnc_setup/zero_xy.png)
 
-Using the arrow buttons on in the yellow 'To Move Tool' menu, move the tool above a clear, clean section of the table.
+Using the arrow buttons on the yellow 'To Move Tool' menu, move the tool above a clear, clean section of the table.
 
 Make sure that the end of the router bit is clean.
 
