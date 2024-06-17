@@ -8,9 +8,18 @@ nav_order: 100
 
 - [Kevin Arne](https://gix.uw.edu/people/kevin-arne/)
 - [Zubin Assadian](https://gix.uw.edu/people/zubin-assadian/)
+- Jack Hatcher
 
 # Current Crew
+- Chenxi Guo
+- Yuwei He
+- Liliana Hsu
+- Aayush Kumar
+- Ashwin Nishad
+- Jiayi Xia
 
+# Former Crew
+## Crew 6
 - Jack Hatcher
 - [Alabhya Singh](https://gix.uw.edu/people/alabhya-thakur/)
 - Felix Chen
@@ -18,7 +27,7 @@ nav_order: 100
 - [Yvonne Yang](https://gix.uw.edu/people/yvonne-yang/)
 - Yilia Liu
 
-# Former Crew
+## Crew 5
 - Teja Balu
 - Jack Bowen
 - Chuan-Li Chang
