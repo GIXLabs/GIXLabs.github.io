@@ -83,3 +83,5 @@ Before getting started with the instructions below, download the [cut file here]
 - Once the fan has stopped running, you can open the lid and remove your finished part.
 
 ## **Congratulations! You have done your first cut on the Glowforge!** 🎉
+
+For Standard Operating Procedures for the Glowforge Basics, see our [SOP Document](/assets/sops/glowforge_basic/glowforge_sop.docx).
