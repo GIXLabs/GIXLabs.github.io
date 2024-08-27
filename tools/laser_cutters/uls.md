@@ -88,3 +88,5 @@ Press the play button to begin your cut. Just like the Glowforges, you must watc
 After a few minutes your cut should be ready! Once it's complete, turn off the fume extraction via the wall switch and turn off the machine via the UCP UI. Congrats, you're all done!
 
 ![](/assets/images/ULS_Guide/final_cut.jpeg)
+
+For standard operating procedures, please use our [SOP file here.](/assets/sops/uls_v4_6.docx)
