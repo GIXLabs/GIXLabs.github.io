@@ -83,7 +83,11 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 
 Please see the reference images below for correct and incorrect placement of the print bed:
 
+### Incorrect
+
 ![Incorrect](/assets/images/Bambu_lab/Incorrect_bed_placement.png) 
+
+### Correct
 
 ![Correct](/assets/images/Bambu_lab/correct_bed_placement.png) 
 
