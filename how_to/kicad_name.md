@@ -24,6 +24,8 @@ Now for the text, click on the F.Cu layer to select it. Select the text tool fro
 
 ![Image of text tool](/assets/how_to/kicad_name/text.svg)
 
+![Image of text dialog box](/assets/how_to/kicad_name/text_dialog.txt)
+
 Click to place the text inside the border. Remember you can use the keyboard shortcut M to move it around.
 
 You may need to resize your text. Hover over the text and press the keyboard shortcut E to open the properties back up (E for propErtiEs I guess?).
