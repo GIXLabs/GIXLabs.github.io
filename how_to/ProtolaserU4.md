@@ -17,8 +17,8 @@ This guide is designed to give you the basics needed to print your PCB (single o
 ----
 Obtain Gerber Files for your PCB and put them on a USB. 
 
-Refer to [this](https://github.com/GIXLabs/GIXLabs.github.io/blob/main/how_to/first_pcb.md) tutorial to learn how to
-export gerbers from Fusion 360.
+Refer to [the bottom of this tutorial](KiCad_Tutorial.md) to learn how to
+export gerbers from KiCad.
 
 ### Step 2
 ---
