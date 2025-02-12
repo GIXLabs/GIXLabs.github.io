@@ -12,6 +12,13 @@ This guide is designed to give you the basics needed to print your PCB (single o
 
 &nbsp;
 
+### Step 0
+Turn on the ProtoLaser using the button on the machine. The login info is on the crwresources github page only accessible to Crew.
+
+Open CircuitPro from the desktop.
+
+CircuitPro will initialize the machine, read the prompts and answer accurately. Usually it asks whether lights are on, which you should check. It also typically lets you know about maintenance. If you have not done the maintenance, notify staff, and select "Not Yet Performed."
+
 
 ### Step 1
 ----
