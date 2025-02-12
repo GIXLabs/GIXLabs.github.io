@@ -32,7 +32,7 @@ New Document
 
 ### Step 3
 ---
- Choose the Template for your PCB, If doing single-sided choose single-sided bottom(If you are using surface mount top or bottom can be chosen). 
+ Choose the Template for your PCB, If doing single-sided choose single-sided bottom or single-sided top, depending on which side your traces are on. 
  
 If doing you are double-sided choose double-sided NoTHP.
 
@@ -106,7 +106,7 @@ Go into the DrillFiles Folder. Click on the drill file and click on Open.
 In the Import window under the Layer/Template column, for each file select the appropriate layer representation from the drop down
 menu. 
 
-(Copper_bottom is Bottom Layer, Copper_top is Top Layer, Profile is Board Outline, drill is Drill
+(Copper_bottom or B_Cu is Bottom Layer, Copper_top or F_Cu is Top Layer, Profile or Edge_cuts is Board Outline, drill is Drill
 Unplated)
 
 ![Image of Layer/Template Dropdown](/assets/how_to/ProtolaserU4/DropDown.svg)
@@ -140,7 +140,7 @@ On the top menu Click on Insert, at the bottom is the fiducial option, mouse ove
 ---
 
 On the grid where your PCB is you can click to add your Fiducials. You can also type in
-coordinates to add the Fiducials as well.
+coordinates to add the Fiducials as well. There are more details to know if you are planning on [soldermasking](Protolaser_Solder_Mask.md) your board.
 
 Add four fiducials that are close to your PCB.
 
@@ -207,7 +207,7 @@ Gently rub the board with steel wool in the area that will have the PCB, if doin
 ### Step 18
 ---
 
-Put the board into the Protolaser and tape down the four corners of the board.
+Put the board into the Protolaser and tape down the four corners of the board. The tape should hold the board down firmly.
 
 Make sure to try and center it as much as possible and close the hood after the board is placed.
 
@@ -236,7 +236,7 @@ Click on the Play button below the Camera tab.
 
 ![Image of Process Button](/assets/how_to/ProtolaserU4/Process.svg)
 
-You should hear the vacuum turn on and the laser will begin processing the board.
+You should hear the vacuum turn on and the laser will begin processing the board. It starts with a 20 minute warm-up cycle for the laser which you shouldn't skip unless you just got done cutting another board.
 
 Alternatively, you can choose where you want CircuitPro to start processing from.
 
@@ -245,8 +245,7 @@ On the left panel, under the Processing section, right-click where you would lik
 ![Image of Process from here example](/assets/how_to/ProtolaserU4/ProcessFromHere.svg)
 
 If you are doing a single sided PCB wait until the laser has
-finished, then take out your PCB and go over it again with some steel wool to remove any copper strips
-that did not get fully removed. 
+finished, then take out your PCB and go over it again with some steel wool to remove any copper stripsthat did not get fully removed. 
 
 Carefully pop out the PCB from the board and you are finished. If you are doing a double-sided PCB continue to Step 21
 
@@ -260,7 +259,7 @@ When it is, take out the board and pop out the Fiducials.
 
 
 Flip the board Up/Down to the other side.
-(DO NOT flip it left/right).
+(DO NOT flip it left/right) Another way to describe this is flip it towards yourself.
 
 Clean any scorch marks around the Fiducial holes.
 
