@@ -101,7 +101,7 @@ Go into the DrillFiles Folder. Click on the drill file and click on Open.
 ### Step 9
 ---
 
- Now we must assign which layer each file represents. 
+Now we must assign which layer each file represents. Most of the KiCad files will default to the correct Layer/Template, but it is good to double check them.
  
 In the Import window under the Layer/Template column, for each file select the appropriate layer representation from the drop down
 menu. 
