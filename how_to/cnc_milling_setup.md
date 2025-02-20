@@ -154,7 +154,9 @@ Select your file.
 
 Put on your ear and eye protection.
 
-Press the big green 'START' button on the ShopBot3 menu. **Dont!!! Press OK! Follow the next Step**
+Press the big green 'START' button on the ShopBot3 menu. 
+
+**Dont!!! Press OK yet! Follow the next Step**
 
 ![](/assets/images/cnc_setup/start_button.png)
 
