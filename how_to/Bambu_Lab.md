@@ -72,6 +72,10 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 
 ![](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Slice&print.gif) 
 
+- Select the printer you want to use from the printer selection dropdown menu
+
+![](/assets/images/Bambu_lab/Bambu_Printer_Selection.gif) 
+
 ## After You Print
 
 - Confirm that the print is done, and the printer is not moving.
