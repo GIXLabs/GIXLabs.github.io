@@ -71,7 +71,7 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 - If you run into incorrect filament settings (as shown below), you can restore the default settings by following these steps:
   1. Click on 'Synchronize filament list from AMS'
   2. Select 'Sync'
-![](assets/images/Bambu_lab/Bambu_Filament_Default.svg)   
+![](assets/images/Bambu_lab/Bambu_reset_filament.svg)   
 
 ## Bambu Studio - Slice and Print
 
