@@ -61,6 +61,11 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 
 ![](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Settings.gif)
 
+
+
+![](assets/images/Bambu_lab/Bambu_Filament_Default.svg)
+
+
 ## Bambu Studio - Slice and Print
 
 - Click on Slice Plate on the top right section.
