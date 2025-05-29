@@ -61,10 +61,17 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 
 ![](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Settings.gif)
 
-
-
+- The default filament settings for the Bambu Lab printer are as follows:
+  - Filament: Bambu PLA Basic 
+  - System Preset: 0.28mm Extra Draft @BBL X1C
+  
 ![](assets/images/Bambu_lab/Bambu_Filament_Default.svg)
+![](assets/images/Bambu_lab/Bambu_Filament_Default02.svg)
 
+- If you run into incorrect filament settings (as shown below), you can restore the default settings by following these steps:
+  1. Click on 'Synchronize filament list from AMS'
+  2. Select 'Sync'
+![](assets/images/Bambu_lab/Bambu_Filament_Default.svg)   
 
 ## Bambu Studio - Slice and Print
 
