@@ -65,14 +65,15 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
   - Filament: Bambu PLA Basic 
   - System Preset: 0.28mm Extra Draft @BBL X1C
   
-![](images/Bambu_Filament_Default.svg)
-![](assets/images/Bambu_lab/Bambu_Filament_Default02.svg)
+<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_Filament_Default.svg" width="600">
+
+<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_Filament_Default02.svg" width="600">
 
 - If you run into incorrect filament settings (as shown below), you can restore the default settings by following these steps:
   1. Click on 'Synchronize filament list from AMS'
   2. Select 'Sync'
      
-<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_reset_filament.svg" width="500">  
+<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_reset_filament.svg" width="600">  
 
 ## Bambu Studio - Slice and Print
 
