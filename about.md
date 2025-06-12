@@ -11,6 +11,15 @@ nav_order: 100
 - Jack Hatcher
 
 # Current Crew
+- Chang Li
+- Hannah Xiao
+- Rishabh Kumar
+- Shareef Jasim
+- Toby Zhao
+- Victoria Yang
+
+# Former Crew
+## Crew 7
 - Chenxi Guo
 - Yuwei He
 - Liliana Hsu
@@ -18,7 +27,6 @@ nav_order: 100
 - Ashwin Nishad
 - Jiayi Xia
 
-# Former Crew
 ## Crew 6
 - Jack Hatcher
 - [Alabhya Singh](https://gix.uw.edu/people/alabhya-thakur/)
