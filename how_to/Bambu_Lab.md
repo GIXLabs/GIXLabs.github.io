@@ -27,10 +27,7 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 
 - If you are using Fusion360 then using the Utility -> Make -> 3D Print option you can generate the STL file of your 3D model.
 - Use one of the spare thumb drives to transfer your STL file from your system.
-- Find the dedicated system placed on the counter in front of the Bambu Lab 3D printer and use the below mentioned Login credentials to login.
-- Login credentials: 
-  - Username: .\bambu 
-  - Password: bambu
+- Find the dedicated system placed on the counter in front of the Bambu Lab 3D printer and use the Login credentials posted on the comupter.
 - Now insert your thumb drive to the USB dock at the front of the dedicated system.
 
 ![](/assets/images/Bambu_lab/Dedicated_system.png)
