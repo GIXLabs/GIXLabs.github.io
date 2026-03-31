@@ -27,6 +27,7 @@ Our policies are the implementation details for the above rules. If you find tha
 1. Report damaged or malfunctioning equipment to staff immediately. Do not attempt to repair yourself as you can incur liability that way.
 1. Only use approved materials in the Prototyping Lab. The materials provided in the Lab are pre-approved, but outside materials must be approved by staff, particularly if you are going to use them on the lasers.
 1. Drones may only be operated in environments where the drone can behave in unexpected ways yet all nearby people are safe. In practice, this means drones may not be operated inside the building, on the balconies, or in areas with bystanders.
+1. Use of power tools owned by students is not permitted in the Prototyping Lab.
 1. Report injuries immediately to the staff. This helps us keep everyone safer.
 
 # Standard Operating Procedures
