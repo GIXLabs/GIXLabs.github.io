@@ -21,7 +21,7 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
   (Note: Although there is a filament runout sensor which will stop the print, and we will replace the spool)
 - After the above-mentioned checks are done, please proceed to the next steps.
 
-![](/assets/images/Bambu_lab/Bambu_lab_x1_carbon.png)
+![Picture of the Bambu lab x1 carbon](/assets/images/Bambu_lab/Bambu_lab_x1_carbon.png)
 
 ## Get Your 3D Print File Ready
 
@@ -30,7 +30,7 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 - Find the dedicated system placed on the counter in front of the Bambu Lab 3D printer and use the Login credentials posted on the comupter.
 - Now insert your thumb drive to the USB dock at the front of the dedicated system.
 
-![](/assets/images/Bambu_lab/Dedicated_system.png)
+![Image of the computer to upload, slice, and print models](/assets/images/Bambu_lab/Dedicated_system.png)
 
 ## Bambu Studio - Prepare
 
@@ -43,7 +43,7 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 - You might want to change the orientation or which side of your 3D model you want to be facing the print bed such that there is almost no overhanging structure.
 - Click on Lay on Face (or press F) and select the face which you want to be facing the print bed. This will automatically change the orientation of your 3D model.
 
-![](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Prepare.gif)
+![GIF of using the bambu lab software](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Prepare.gif)
 
 ## Bambu Studio - Settings
 
@@ -56,7 +56,7 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 
 - The only setting you must change from the system preset is Support -> Enable support.
 
-![](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Settings.gif)
+![Enable support settings on bambu lab](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Settings.gif)
 
 - The default filament settings for the Bambu Lab printer are as follows:
   - Filament: Bambu PLA Basic 
@@ -81,11 +81,11 @@ Before you start preparing your 3D model on Bambu Studio you must check the foll
 - Click on the Send button to send the sliced file to the 3D printer.
 - Wait for your print to be completed! (This printer is crazy fast though!!)
 
-![](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Slice&print.gif) 
+![image of bambu lab after slicing the model](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Slice&print.gif) 
 
 - Select the printer you want to use from the printer selection dropdown menu
 
-![](/assets/images/Bambu_lab/Bambu_Printer_Selection.gif) 
+![Selecting the printer to print the model](/assets/images/Bambu_lab/Bambu_Printer_Selection.gif) 
 
 ## After You Print
 
@@ -100,9 +100,9 @@ Please see the reference images below for correct and incorrect placement of the
 
 ### Incorrect
 
-![Incorrect](/assets/images/Bambu_lab/Incorrect_bed_placement.png) 
+![Incorrect bed alignment](/assets/images/Bambu_lab/Incorrect_bed_placement.png) 
 
 ### Correct
 
-![Correct](/assets/images/Bambu_lab/correct_bed_placement.png) 
+![Correct bed alignment](/assets/images/Bambu_lab/correct_bed_placement.png) 
 

@@ -29,13 +29,13 @@ After installation, open Cura and follow the setup prompts. While selecting the 
 
 Follow the rest of self-explanatory prompts to finish the setup.
 
-![](../../assets/images/Ultimaker3_Guide/CuraSetup.png)
+![Selecting Ultimaker 3 Extended in Add a Printer window](../../assets/images/Ultimaker3_Guide/CuraSetup.png)
 
 ### Cura Interface
 
 Lets go through the interface of Cura in brief.
 
-![](../../assets/images/Ultimaker3_Guide/CuraHome.png)
+![Ultimaker UI with 9 labels for the different controls](../../assets/images/Ultimaker3_Guide/CuraHome.png)
 
 1. The first area deals with importing files into Cura. More often than not, STL file formats are used to import 3D models to postprocess in Cura.
 2. The second region is where one can select the 3D printer type. Once set, this setting is rarely touched.
@@ -57,18 +57,18 @@ Lets go through the interface of Cura in brief.
 This section goes through importing materials to Cura, tuning layer and support settings, material settings, and methods to export to Ultimaker printer.
 
 1. The STL model can be dragged into Cura's interface, or can be opened through Cura (CMD+O for Mac, CTRL+O for Windows).
-2. Once the model is imported, and if it is clicked on, new settings show up in the interface. One can scale, transform, and do other operations through these options. ![](../../assets/images/Ultimaker3_Guide/ModelImport.png)
+2. Once the model is imported, and if it is clicked on, new settings show up in the interface. One can scale, transform, and do other operations through these options. ![Highlighting the positioning feature](../../assets/images/Ultimaker3_Guide/ModelImport.png)
 3. The model's position can be adjusted by using the arrows on the interface.
-4. In a similar way, the model's scaling can be adjusted by choosing the 2nd icon on the options to the left. ![](../../assets/images/Ultimaker3_Guide/Scaling.png)Pushing and pulling the handles on the interface decreases and increases the size of the model to be printed.
-5. The orientation can be be adjusted using the third icon on the left menu. The handles can be rotated around the model to adjust the orientation. ![](../../assets/images/Ultimaker3_Guide/Orientation.png)
-6. After the desired orientation, scaling, and position are set, one can proceed to set the layer settings. ![](../../assets/images/Ultimaker3_Guide/LayerSettings.png)
-7. The resolution decides the layer height of the model. The higher the resolution, the higher quality of the end product is, but it takes longer as it has to print finer layers. One has to decide the tradeoff between the time of print and the quality of the end product. ![](../../assets/images/Ultimaker3_Guide/LayerResolution.png) If one wants a quick prototype, the `Fast` option has to be chosen, and if its the final iteration, `Fine` option can be chosen for higher quality.
+4. In a similar way, the model's scaling can be adjusted by choosing the 2nd icon on the options to the left. ![Highlighting the scaling feature](../../assets/images/Ultimaker3_Guide/Scaling.png)Pushing and pulling the handles on the interface decreases and increases the size of the model to be printed.
+5. The orientation can be be adjusted using the third icon on the left menu. The handles can be rotated around the model to adjust the orientation. ![Highlighting the rotating feature](../../assets/images/Ultimaker3_Guide/Orientation.png)
+6. After the desired orientation, scaling, and position are set, one can proceed to set the layer settings. ![Where to find the layer settings](../../assets/images/Ultimaker3_Guide/LayerSettings.png)
+7. The resolution decides the layer height of the model. The higher the resolution, the higher quality of the end product is, but it takes longer as it has to print finer layers. One has to decide the tradeoff between the time of print and the quality of the end product. ![Showing different resolution print options](../../assets/images/Ultimaker3_Guide/LayerResolution.png) If one wants a quick prototype, the `Fast` option has to be chosen, and if its the final iteration, `Fine` option can be chosen for higher quality.
 8. If one wants to prototype faster than the above settings, visit [this page](../../how_to/print_faster.md) that details more in-depth settings to be changed that allows faster prints than what is achievable through the standard settings.
 9. The infill settings decides the amount of plastic to be used inside the print. Higher infill settings lead to heavier and stronger models, but will take longer to print and consume more materials. A good standard infill setting is 40%, and can be adjusted according to the need.
-10. One should be careful to check the `Support` option incase the material has any overhangs. Not checking this option might lead to failed prints that has overhangs. ![](../../assets/images/Ultimaker3_Guide/Support.png)
+10. One should be careful to check the `Support` option incase the material has any overhangs. Not checking this option might lead to failed prints that has overhangs. ![Displaying the support feature](../../assets/images/Ultimaker3_Guide/Support.png)
 11. The Adhesion option prints an extra rim around the model to make sure the print sticks to the bed. Leaving this option on would reduce the probability of the print failing, but one would have to spend more time removing the extra rim using the deburring tool.
-12. After the layer settings are finalized, start the slicing process by clicking the slice button. ![](../../assets/images/Ultimaker3_Guide/slicing.png)
-13. After the slicing is processed, insert a USB stick to the computer. The sliced model can be sent to the USB directly from Cura itself. ![](../../assets/images/Ultimaker3_Guide/savetodisk.png) Save the model to the disk in the `.gcode` format, and eject the USB stick from the computer. The USB now contains the model that can be inserted into the Ultimaker.
+12. After the layer settings are finalized, start the slicing process by clicking the slice button. ![Highlighting the start the slicing process button](../../assets/images/Ultimaker3_Guide/slicing.png)
+13. After the slicing is processed, insert a USB stick to the computer. The sliced model can be sent to the USB directly from Cura itself. ![Image of post slice that shows the duration of the print](../../assets/images/Ultimaker3_Guide/savetodisk.png) Save the model to the disk in the `.gcode` format, and eject the USB stick from the computer. The USB now contains the model that can be inserted into the Ultimaker.
 
 ### Printing the Sliced model with Ultimaker
 
@@ -76,24 +76,24 @@ After copying the required .gcode files to the USB stick, follow the following s
 
 1. Make sure there is enough material in the Ultimaker for the print before starting the print. If the Ultimaker runs out of material, there is no way to add additional material for continuing the print, and one would have to restart the whole print with new material.
    1. Ultimaker doesn't have a mechanism that notifies one if the existing spool is enough for the model it is about to print, so one has to use their judgement to decide if the existing material is enough for the print.
-      ![](../../assets/images/Ultimaker3_Guide/spoolcheck.jpg)
+      ![Side view of the spool to check if there is enough filament or not](../../assets/images/Ultimaker3_Guide/spoolcheck.jpg)
 2. Insert the USB into Ultimaker. The dial can be rotated to scroll through the options on the screen, and can be pressed to select. Select print, and the right file from the following options.  
-   ![](../../assets/images/Ultimaker3_Guide/selectprint.jpg)
-   ![](../../assets/images/Ultimaker3_Guide/selectmodeltoprint.jpg)
+   ![Image of USB inserted into the Ultimaker](../../assets/images/Ultimaker3_Guide/selectprint.jpg)
+   ![Image of the print file showing up on the small Ultimaker display](../../assets/images/Ultimaker3_Guide/selectmodeltoprint.jpg)
 3. Wait till the Ultimaker heats up the build plate and the print core.
-   ![](../../assets/images/Ultimaker3_Guide/heatbuildplate.jpg)
-   ![](../../assets/images/Ultimaker3_Guide/heatprintcore.jpg)
+   ![Image of loading screen that shows progress of the plate heating](../../assets/images/Ultimaker3_Guide/heatbuildplate.jpg)
+   ![Image of loading screen that shows progress of the core heating](../../assets/images/Ultimaker3_Guide/heatprintcore.jpg)
 4. As the first step in the print, the Ultimaker squirts a small amount on the corner of the build plate. The shape has to be roughly pyramidal.
-   ![](../../assets/images/Ultimaker3_Guide/initsquirt.jpg)
+   ![Image of the first output from the nozzle that looks like a really small, rough pyramid](../../assets/images/Ultimaker3_Guide/initsquirt.jpg)
 5. When the print starts, make sure the rims for the print are evenly shaped and sticks to the plate. Also, make sure the flow from the nozzle is consistent. These steps ensure that the rest of the print continues to go well.
-   ![](../../assets/images/Ultimaker3_Guide/initprint.jpg)
+   ![Image of the rims of the print to check the print is starting off correctly](../../assets/images/Ultimaker3_Guide/initprint.jpg)
 6. There are always chances that the print might fail at any point, and following the above initial steps reduces the probability of the print failing as one can identify faults at the beginning itself rather than later.
 
 ## Removing 3D print
 
 1. Remove the glass pane from the 3D printer
-   ![](../../assets/images/Ultimaker3_Guide/glass_pane_tab.png)
+   ![Image higlighting the two front corners of the glass panel for removal](../../assets/images/Ultimaker3_Guide/glass_pane_tab.png)
 2. Place it on top of one of the tables in the makerspace. Ensure when you remove the 3D print with the scraper to place your hand in the lower left or right corner to hold down the glass pane.
-   ![](../../assets/images/Ultimaker3_Guide/remove_print.svg)
+   ![Image of glass panel with print removes and placed on a table with a scrape tool to remove the print](../../assets/images/Ultimaker3_Guide/remove_print.svg)
 3. Once you have successfully remove the print, please return the glass pane to the printer you took it out from, and ensure the tabs are secure. The supports can be removed using a plier, and the rims can be removed using a deburring tool.
-   ![](../../assets/images/Ultimaker3_Guide/remove_tools.png)
+   ![Image of the three tools for post proessing the print: scraper, deburring tool, and pliers](../../assets/images/Ultimaker3_Guide/remove_tools.png)

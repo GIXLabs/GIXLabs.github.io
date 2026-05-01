@@ -10,7 +10,7 @@ Note: This page assumes that you are already familiar with the basic concepts an
 
 # ULS
 
-![](/assets/images/ULS_Guide/uls.jpeg)
+![ULS](/assets/images/ULS_Guide/uls.jpeg)
 
 Compared to the Glowforges, the ULSs have more stringent requirements for your cut file but offer greater speed and power in return. They have a larger print bed, 18"x24" compared to the Glowforges' 12"x20.4". The basic steps for cutting with the ULS are:
 1. Properly format your SVG file (details below)
@@ -21,7 +21,7 @@ Compared to the Glowforges, the ULSs have more stringent requirements for your c
 
 ## Formatting Your File
 
-![](/assets/images/ULS_Guide/raw_file.png)
+![Image of the .png file on a image editing software](/assets/images/ULS_Guide/raw_file.png)
 
 Let's say that we're making some keychain tags as shown in the image above. We'll need to do two additional steps compared to a Glowforge before we can cut our files: specify our stroke **colors** and **weights**.
 
@@ -32,7 +32,7 @@ The stroke colors matter when cutting on the ULS. The software understands the f
 - **<span style="color: blue;">Blue</span>** is used to specify which lines are **scores**.
 - **<span style="color: black;">Black</span>** is used to specify which fill areas are meant to be **engraved**.
 
-![](/assets/images/ULS_Guide/colors.png)
+![.png file is edited to have different color lines](/assets/images/ULS_Guide/colors.png)
 
 Note: The colors need to be pure red (#ff0000), blue (#0000ff), and black (#000000) for the forthcoming software to understand them.
 

@@ -24,9 +24,9 @@ Prior to this guide, you should have been invited to the Glowforge systems by th
 Before getting started with the instructions below, download the [cut file here](/assets/images/first_laser_cut/gix_first_cut.svg). You may need to right click the previous link and select "Save link as," which may be easier on a computer rather than a phone. Keep in mind that different colors will operate differently when uploaded to the Glowforge. For example:
 
 - What the file looks like
-  ![DifferentColor](/assets/images/first_laser_cut/different_color.png)
+  ![Image of what the file looks like](/assets/images/first_laser_cut/different_color.png)
 - When uploaded to Glowforge
-  ![DifferentUpload](/assets/images/first_laser_cut/uploaded_file.jpg)
+  ![Image of file after uploaded to Glowforge](/assets/images/first_laser_cut/uploaded_file.jpg)
 
 ## Suggested File Format
 
@@ -41,25 +41,25 @@ Before getting started with the instructions below, download the [cut file here]
 ## Selecting an Available Glowforge
 
 - Once you have upload your file select the available Glowforge to do your cut.
-  ![SelectGlowforge](/assets/images/first_laser_cut/select_glowforge.gif)
+  ![Select the correct Glowforge printer to use](/assets/images/first_laser_cut/select_glowforge.gif)
 
 ## Selecting Your Material from Glowforge Presets
 
 - Grab a piece of 0.12 inch cardboard from the material supplies and place it in the bed of the machine. Try to use a piece that already has a few cuts in it. The length and width of the board do not matter very much as you can scale your design to fit.
 - Select 1/8" Corrugated Cardboard in the top lefthand corner. You may have to use the search bar to find it.
-  ![SelectMaterial](/assets/images/first_laser_cut/select_material.png)
+  ![Select the correct Material to cut with](/assets/images/first_laser_cut/select_material.png)
 - You can find the proper settings on [this page](https://gixlabs.github.io/tools/laser_cutters/glowforge.html) for all of the other materials in the Prototyping Labs
 
 ## Changing Cut Settings
 
 - On the lefthand side you can click on the item you want to change the settings for from engrave, score, or cut. You do not need to mess with Power and Speed settings. If you see those, just press Back.
-  ![ChangeSetting](/assets/images/first_laser_cut/change_settings.png)
-  ![SelectSetting](/assets/images/first_laser_cut/select_settings.jpg)
+  ![Changing cut settings on glowforge](/assets/images/first_laser_cut/change_settings.png)
+  ![Selecting the cut Setting](/assets/images/first_laser_cut/select_settings.jpg)
 
 ## Changing Cut Order
 
 - You can change the order of the engrave or cut by hovering over the item on the lefthand side and dragging it. Always place the outer border cut last.
-  ![ChangeOrder](/assets/images/first_laser_cut/change_order.gif)
+  ![Change the cut order](/assets/images/first_laser_cut/change_order.gif)
 
 ## Positioning Your Cut
 
@@ -67,7 +67,7 @@ Before getting started with the instructions below, download the [cut file here]
 - You are able to rotate and scale your artwork as well.
 - If the Print button still says "No Artwork," you will need to move your artwork closer to the center of the bed.
 
-![MoveArtwork](/assets/images/first_laser_cut/move_artwork.gif)
+![Moving the uploaded file on glowforge software](/assets/images/first_laser_cut/move_artwork.gif)
 
 **NOTE:** This will help you maximize the space left for other cuts. DON'T PUT YOUR CUT IN THE CENTER OF A FRESH SHEET OF MATERIAL. Place it near the edges so others can use the remainder of that sheet. Leave a little room around the edge (1/8" or 3 mm) for camera positioning error.
 
@@ -76,7 +76,7 @@ Before getting started with the instructions below, download the [cut file here]
 - Go to the upper right corner and click on Print.
 - The first time you print, it will give you some safety warnings, which should match our rules, and a warning about no Proofgrade materials, which you can ignore. Your download bar might obscure the "I understand" button.
 - Once you have done that and you see the provided estimated time of your cut, you will see the **button on the Glowforge machine** blink. Press on the button and watch the laser do your cut.
-  ![PrintGlowforge](/assets/images/first_laser_cut/print_glowforge.gif)
+  ![Printing the file on glowforge](/assets/images/first_laser_cut/print_glowforge.gif)
 
 ## Removing Your Work
 
