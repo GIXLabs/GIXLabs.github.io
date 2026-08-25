@@ -4,105 +4,77 @@ layout: page
 parent: How To
 ---
 
-# Your First 3D Print (Bambu Lab X1 Carbon)
+# Your First 3D Print 
 
-## Before You Print
+## Before the Print
 
-Some Rules:
-- You can only use the dedicated system for using the Bambu Lab 3D printer.
-- You are NOT allowed to log out the existing Bambu Lab user accounts from either the 3D printer or Bambu Studios installed on the dedicated system.
-- Manage the 3D printer with care!
+**RULES**
 
-Before you start preparing your 3D model on Bambu Studio you must check the following:
-  - The 3D printer is available. (Not actively printing)
-  - The Magnetic print bed is empty and placed correctly. <br />
-  (Note: If there are existing 3D prints on the bed then remove it. Please see the [After You Print](#after-you-print) section for removing the 3D prints)
-  - There is enough filament in the spool at the back of the printer. <br />
-  (Note: Although there is a filament runout sensor which will stop the print, and we will replace the spool)
-- After the above-mentioned checks are done, please proceed to the next steps.
+- Don't log out of the Bambu Lab user accounts from either the 3D printer or on Bambu Studios.
+- Handle the 3D printer with care!
 
-![Picture of the Bambu lab x1 carbon](/assets/images/Bambu_lab/Bambu_lab_x1_carbon.png)
+**PRE-PRINT CHECKLIST**
 
-## Get Your 3D Print File Ready
+- The print bed is empty, placed correctly, and the printer is not printing. If there are finished prints on the bed, remove them.
+- There is enough filament on the spool at the back of the printer.
+<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_Printer.png" alt="Picture of the Bambu lab x1 carbon" width="600" >
 
-- If you are using Fusion360 then using the Utility -> Make -> 3D Print option you can generate the STL file of your 3D model.
-- Use one of the spare thumb drives to transfer your STL file from your system.
-- Find the dedicated system placed on the counter in front of the Bambu Lab 3D printer and use the Login credentials posted on the comupter.
-- Now insert your thumb drive to the USB dock at the front of the dedicated system.
 
-![Image of the computer to upload, slice, and print models](/assets/images/Bambu_lab/Dedicated_system.png)
+## Preparing 3D File
 
-## Bambu Studio - Prepare
+1. If you are using Fusion360, click on Utility -> Make -> 3D Print option to generate the STL file of your 3D model.
+2. Use one of the USB flash drive to move the STL file from your computer onto the USB.
+3. Find the Bambu computer in front of the Bambu Lab 3D printer and use the login information posted on the computer to login.
+4. Insert your USB to the USB dock in front of the Bambu computer.
 
-- Find and open the Bambu Studio software from the desktop (If not already open).
-- Go to the File -> New project. (Only required if there is a project already open)
-- Go to the Prepare tab and click on it, an empty build plate with setting menu will appear. 
-- Go to the File -> Import -> Import 3MF/STL/STEP/...
-- Then select the 3MF/STL/STEP/... file (preferably STL) from your thumb drive.
-- Your 3D model should appear on the print bed; the orientation might not be ideal.
-- You might want to change the orientation or which side of your 3D model you want to be facing the print bed such that there is almost no overhanging structure.
-- Click on Lay on Face (or press F) and select the face which you want to be facing the print bed. This will automatically change the orientation of your 3D model.
+<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_Computer.png" alt="Picture of the Bambu computer" width="600">
 
-![GIF of using the bambu lab software](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Prepare.gif)
+## Preparing Bambu
 
-## Bambu Studio - Settings
+1. Find and open the Bambu Studio software from the desktop.
+2. On the home screen, click on "Create new project" on the upper right corner.
+3. While on the <b>"Prepare"</b> Tab, click on File -> Import -> Import 3MF/STL/STEP/...
+4. Select and open the STL file from the USB
+5. The 3D model will appear on the print bed.
+6. Click on the third icon from the left in the toolbar on top (with the word "auto") to auto orient the 3d print.
 
-- You might not have to change/update the following settings but make sure that it matches the following:
+![Gif of Bambu Studio, uploading file, and auto orienting model](/assets/images/Bambu_lab/TrimmedImport.gif)
 
-  - Printer: Bambu Lab X1 Carbon 0.4 nozzle
+## Settings
+
+- Make sure the settings in the prepare tab on the left matches the following settings:
+  - Printer: Bambu Lab X1 Carbon 0.4 diameter
   - Filament: Bambu PLA Basic
-  - Process: Global
-  - System Preset: 0.24mm Draft @BBL X1C
+  - User Preset: 0.24mm Draft @BBL X1C - Copy
+  - Click on the Support tab and make sure **"Enable support"** is checked
 
-- The only setting you must change from the system preset is Support -> Enable support.
+![Enable support settings on bambu lab](/assets/images/Bambu_lab/TrimmedSettings.gif)
 
-![Enable support settings on bambu lab](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Settings.gif)
+## Slice and Print
 
-- The default filament settings for the Bambu Lab printer are as follows:
-  - Filament: Bambu PLA Basic 
-  - System Preset: 0.28mm Extra Draft @BBL X1C
-  
-<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_Filament_Default.svg" width="600">
+1. Click on **"Slice plate"** on the top right corner.
+2. Click on **"Print plate"**, you will see a pop-up window showing you the print time and the option to choose a printer.
+3. Select an available printer from the dropdown menu.
+4. Click on the **"Send"** button to send the sliced file to the 3D printer.
+5. Wait for your print to be completed.
 
-<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_Filament_Default02.svg" width="600">
+![Gif of Bambu Lab, slicing, reviewing layers, and sending to print](/assets/images/Bambu_lab/TrimmedSend.gif)
 
-- If you run into incorrect filament settings (as shown below), you can restore the default settings by following these steps:
-  1. Click on 'Synchronize filament list from AMS'
-  2. Select 'Sync'
-     
-<img src="https://raw.githubusercontent.com/GIXLabs/GIXLabs.github.io/main/assets/images/Bambu_lab/Bambu_reset_filament.svg" width="600">  
+## After The Print
 
-## Bambu Studio - Slice and Print
-
-- Click on Slice Plate on the top right section.
-- After the slicing is done, your main screen will automatically switch to Preview.
-- Click on Print Plate, this will pop up a window showing you the print time.
-- You might want to uncheck Bed Leveling, Flow Dynamics Calibration, and Timelapse to start the print faster. (Timelapse will not work anyways)
-- Click on the Send button to send the sliced file to the 3D printer.
-- Wait for your print to be completed! (This printer is crazy fast though!!)
-
-![image of bambu lab after slicing the model](/assets/images/Bambu_lab/Bambu_Studios_Tutorial-Slice&print.gif) 
-
-- Select the printer you want to use from the printer selection dropdown menu
-
-![Selecting the printer to print the model](/assets/images/Bambu_lab/Bambu_Printer_Selection.gif) 
-
-## After You Print
-
-- Confirm that the print is done, and the printer is not moving.
-- Open the front glass door and try removing the print from the print bed gently.
-- If the print does not come off easily then hold the front lip of the print bed, push upwards gently to disengage with the magnets, and take out the print bed.
-- Then flex the print bed gently to remove the 3D print and take it off.
-- Place the print bed back on the magnetic platform correctly and close the glass door.
-- Done!! Have fun with your first 3D print on the Bambu Lab X1 Carbon.
+1. Confirm that the print is done, and the printer is not moving.
+2. Remove the print from the print bed gently.
+  - If the print does not come off easilyold the front lip of the print bed, push upwards gently to disengage with the magnets, and take out the print bed.
+  - Then bend the print bed gently to remove the 3D print.
+5. Return the print bed back into the printer and close the glass door.
+6. Done!! Have fun with your first 3D print on the Bambu Lab X1 Carbon.
 
 Please see the reference images below for correct and incorrect placement of the print bed:
 
 ### Incorrect
 
-![Incorrect bed alignment](/assets/images/Bambu_lab/Incorrect_bed_placement.png) 
+![Incorrect bed alignment](/assets/images/Bambu_lab/Incorrect_bed_placement.png)
 
 ### Correct
 
-![Correct bed alignment](/assets/images/Bambu_lab/correct_bed_placement.png) 
-
+![Correct bed alignment](/assets/images/Bambu_lab/correct_bed_placement.png)
