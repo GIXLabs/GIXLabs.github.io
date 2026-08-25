@@ -1,5 +1,5 @@
 ---
-title: 3D Print Your First Part (Bambu Lab X1 Carbon)
+title: 3D Print Your First Part 
 layout: page
 parent: How To
 ---
@@ -22,7 +22,7 @@ parent: How To
 
 ## Preparing 3D File
 
-1. If you are using Fusion360, click on Utility -> Make -> 3D Print option to generate the STL file of your 3D model.
+1. If you are using Fusion360, right click on body and select "Save as mesh" to generate the STL file of your 3D model.
 2. Use one of the USB flash drive to move the STL file from your computer onto the USB.
 3. Find the Bambu computer in front of the Bambu Lab 3D printer and use the login information posted on the computer to login.
 4. Insert your USB to the USB dock in front of the Bambu computer.
@@ -34,7 +34,7 @@ parent: How To
 1. Find and open the Bambu Studio software from the desktop.
 2. On the home screen, click on "Create new project" on the upper right corner.
 3. While on the <b>"Prepare"</b> Tab, click on File -> Import -> Import 3MF/STL/STEP/...
-4. Select and open the STL file from the USB
+4. Select and open the STL file from the USB.
 5. The 3D model will appear on the print bed.
 6. Click on the third icon from the left in the toolbar on top (with the word "auto") to auto orient the 3d print.
 
@@ -43,10 +43,13 @@ parent: How To
 ## Settings
 
 - Make sure the settings in the prepare tab on the left matches the following settings:
-  - Printer: Bambu Lab X1 Carbon 0.4 diameter
-  - Filament: Bambu PLA Basic
-  - User Preset: 0.24mm Draft @BBL X1C - Copy
-  - Click on the Support tab and make sure **"Enable support"** is checked
+
+| Setting | X1 Carbon | P2S |
+|---|---|---|
+| Printer | **Bambu Lab X1 Carbon**| **Bambu Lab P2S** |
+| Diameter | 0.4 | 0.4
+| Filament | Bambu PLA Basic | Bambu PLA Basic |
+| User Preset | Default | Default |
 
 ![Enable support settings on bambu lab](/assets/images/Bambu_lab/TrimmedSettings.gif)
 
@@ -62,12 +65,11 @@ parent: How To
 
 ## After The Print
 
-1. Confirm that the print is done, and the printer is not moving.
-2. Remove the print from the print bed gently.
-  - If the print does not come off easilyold the front lip of the print bed, push upwards gently to disengage with the magnets, and take out the print bed.
-  - Then bend the print bed gently to remove the 3D print.
-5. Return the print bed back into the printer and close the glass door.
-6. Done!! Have fun with your first 3D print on the Bambu Lab X1 Carbon.
+1. Remove the print from the metal sheet gently.
+  - If the print does not come off easily, fold the front lip of the sheet, push upwards gently and take out the sheet.
+  - Then bend the sheet slightly to remove the 3D print.
+2. Return the metal sheet back into the printer and close the glass door.
+3. Done!! Have fun with your first 3D print on the Bambu Lab X1 Carbon/P2S.
 
 Please see the reference images below for correct and incorrect placement of the print bed:
 
