@@ -10,13 +10,12 @@ Note: This page assumes that you are already familiar with the basic concepts an
 
 # ULS
 
-![ULS](/assets/images/ULS_Guide/uls.jpeg)
+![ULS](/assets/images/ULS_Guide/uls_ms.jpeg)
 
 Compared to the Glowforges, the ULSs have more stringent requirements for your cut file but offer greater speed and power in return. They have a larger print bed, 18"x24" compared to the Glowforges' 12"x20.4". The basic steps for cutting with the ULS are:
 1. Properly format your SVG file (details below)
-2. "Print" the file from the dedicated ULS computers to the ULS software
+2. "Printing" the file from the dedicated ULS computers to the ULS software
 3. Configure your settings in the ULS software
-4. Turn on the dedicated ULS fume extraction
 5. Perform the cut
 
 ## Formatting Your File
@@ -43,41 +42,42 @@ The ULS will interpret the stroke weight as the desired [kerf width](https://www
 ![](/assets/images/ULS_Guide/stroke_weight_zoomed.png)
 ![](/assets/images/ULS_Guide/stroke_weight.png)
 
+> **Troubleshooting:** If your cut or score paths appear filled in black after being sent to the ULS software, check the object's fill in Inkscape. For cut/score paths, set **Fill** to **No paint (X)** and leave only the stroke color. Black fills may be interpreted as engraving areas.
+
+![](/assets/images/ULS_Guide/no_fill.png)
+
 ## "Printing" the File
 
-Each ULS has a dedicated computer located adjacent to it. These computers have their respective ULSs installed as printers. Open your SVG or Illustrator file in Illustrator on one of these computers. They should be logged in by default during Makerspace hours (Monday-Saturday 10-6) but any crew member can log you in if this not the case. 
+Each ULS has a dedicated computer located adjacent to it. Open your SVG using Inskape on one of these computers. They should be logged in by default during Makerspace hours (Monday-Saturday 10-6) but any crew member can log you in if this not the case. 
 
-From Illustrator, print the file and select VLS4.60/75 as your printer. Leave the default settings as-is, making sure that scaling is set to "Do Not Scale".
+![](/assets/images/ULS_Guide/inkscape.png)
 
-![](/assets/images/ULS_Guide/printer.png)
+Click "Extension > Export > Win32 Vector Print"
 
-After you click print, the print dialogue will disappear but nothing will happen. Minimize your windows and open "UCP" from the desktop.
+![](/assets/images/ULS_Guide/print.png)
+
+After you click print, the ULS dialogue will appear. Specify the material that you're going to cut from as well as its thickness. For this example, I'll be using (1) Birch that is (2) .125" thick. Select (3) "Apply" and then (4) "OK" after making these specifications. 
+
+![](/assets/images/ULS_Guide/uls_setting.png)
+
+After you click Ok, the ULS program will automatically open, but nothing will happen. Minimize your windows and open "UCP" from the desktop.
 
 ![](/assets/images/ULS_Guide/open_ucp.png)
 
-Here, you should see the image that you just printed from Illustrator.
+Here, you should see the image that you just printed from Inkscape.
 
 ![](/assets/images/ULS_Guide/ucp_basic.png)
 
 ## Configure Your Settings
 
-Select "Settings" in the bottom right. Specify the material that you're going to cut from as well as its thickness. For this example, I'll be using MDF that is .125" thick. Select "Apply" and then "OK" after making these specifications. 
-
-![](/assets/images/ULS_Guide/uls_settings.png)
-
 The ULS does not have a live preview like the Glowforge does. Instead, it displays x and y rulers on its print preview that correspond to the rulers on the machine itself. It's generally easiest to align your material in the top left corner and drag your file up to this location. Use the "Relocate" button on the right to drag your image to a spot that fits onto your material.
 
 ![](/assets/images/ULS_Guide/uls_relocate.png)
 
-Turn on the ULS by pressing the power button at the top right of the UI.
+Turn on the ULS by pressing the power button at the top right of the UI. **It will take about minute to actually kick on. Do not start your cut until you hear the fan turn on. It will be loud.**
 
 ![](/assets/images/ULS_Guide/uls_turn_on.png)
 
-## Turn On Fume Extraction
-
-![](/assets/images/ULS_Guide/switches.png)
-
-Each ULS has a dedicated fume extractor. The switches for both are located on the wall to the left of the West machine. The switches are labeled East and West and the machines are also labeled East and West accordingly. Turn on the switch corresponding to the machine you wish to use. **It will take about minute to actually kick on. Do not start your cut until you hear the fan turn on. It will be loud.**
 
 ## Perform the Cut
 
